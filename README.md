@@ -53,5 +53,18 @@ See sample-project.dorico
 | Cymbal 1 (High Crash) | Tip | 48 | Natural | ![image-20200723195754390](README.assets/image-20200723195754390.png) |
 |  | Bell | 50 | Center | ![image-20200723195802883](README.assets/image-20200723195802883.png) |
 |  | Edge | 49 | Crush | ![image-20200723195812447](README.assets/image-20200723195812447.png) |
-|  | Edge | 22 | Choke | ![image-20200723195829114](README.assets/image-20200723195829114.png) |
+|  | Choke | 22 | Choke | ![image-20200723195829114](README.assets/image-20200723195829114.png) |
+| Cymbal 2 (Low Crash) | Tip | 54 | Natural | ![image-20200723195754390](README.assets/image-20200723195754390.png) |
+|  | Bell | 56 | Center | ![image-20200723195802883](README.assets/image-20200723195802883.png) |
+|  | Edge | 55 | Crush | ![image-20200723195812447](README.assets/image-20200723195812447.png) |
+|  | Choke | 24 | Choke | ![image-20200723195829114](README.assets/image-20200723195829114.png) |
+| Cymbal 3 (Ride) | Tip | 51 | Natural | ![image-20200723195754390](README.assets/image-20200723195754390.png) |
+|  | Bell | 53 | Center | ![image-20200723195802883](README.assets/image-20200723195802883.png) |
+|  | Edge | 52 | Crush | ![image-20200723195812447](README.assets/image-20200723195812447.png) |
+|  | Choke | 23 | Choke | ![image-20200723195829114](README.assets/image-20200723195829114.png) |
+| Cymbal 4 (China) | Tip | 58 | Natural | ![image-20200723195754390](README.assets/image-20200723195754390.png) |
+|  | Edge | 57 | Crush | ![image-20200723195812447](README.assets/image-20200723195812447.png) |
+|  | Choke | 25 | Choke | ![image-20200723195829114](README.assets/image-20200723195829114.png) |
+| Cymbal 5 (Splash) | Edge | 59 | Natural | ![image-20200723195754390](README.assets/image-20200723195754390.png) |
+|  | Choke | 26 | Choke | ![image-20200723195829114](README.assets/image-20200723195829114.png) |
 

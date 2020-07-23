@@ -127,6 +127,30 @@
 						<name>Choke</name>
 					</entry>
 					<entry>
+						<instrumentEntityID>instrument.orchestral.unpitched.ride.cymbal.high</instrumentEntityID>
+						<techniqueIDs>pt.choke</techniqueIDs>
+						<pitch>23</pitch>
+						<name>Choke</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.orchestral.unpitched.crash.cymbal.low</instrumentEntityID>
+						<techniqueIDs>pt.choke</techniqueIDs>
+						<pitch>24</pitch>
+						<name>Choke</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.unpitched.china.cymbal</instrumentEntityID>
+						<techniqueIDs>pt.choke</techniqueIDs>
+						<pitch>25</pitch>
+						<name>Choke</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.unpitched.splash.cymbal</instrumentEntityID>
+						<techniqueIDs>pt.choke</techniqueIDs>
+						<pitch>26</pitch>
+						<name>Choke</name>
+					</entry>
+					<entry>
 						<instrumentEntityID>instrument.unpitched.kick.drum.low</instrumentEntityID>
 						<techniqueIDs>pt.natural</techniqueIDs>
 						<pitch>36</pitch>
@@ -203,6 +227,60 @@
 						<techniqueIDs>pt.centre</techniqueIDs>
 						<pitch>50</pitch>
 						<name>Bell</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.orchestral.unpitched.ride.cymbal.high</instrumentEntityID>
+						<techniqueIDs>pt.natural</techniqueIDs>
+						<pitch>51</pitch>
+						<name>Natural</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.orchestral.unpitched.ride.cymbal.high</instrumentEntityID>
+						<techniqueIDs>pt.crush</techniqueIDs>
+						<pitch>52</pitch>
+						<name>Crush</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.orchestral.unpitched.ride.cymbal.high</instrumentEntityID>
+						<techniqueIDs>pt.centre</techniqueIDs>
+						<pitch>53</pitch>
+						<name>Centre</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.orchestral.unpitched.crash.cymbal.low</instrumentEntityID>
+						<techniqueIDs>pt.natural</techniqueIDs>
+						<pitch>54</pitch>
+						<name>Natural</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.orchestral.unpitched.crash.cymbal.low</instrumentEntityID>
+						<techniqueIDs>pt.crush</techniqueIDs>
+						<pitch>55</pitch>
+						<name>Crush</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.orchestral.unpitched.crash.cymbal.low</instrumentEntityID>
+						<techniqueIDs>pt.centre</techniqueIDs>
+						<pitch>56</pitch>
+						<name>Centre</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.unpitched.china.cymbal</instrumentEntityID>
+						<techniqueIDs>pt.crush</techniqueIDs>
+						<pitch>57</pitch>
+						<name>Crush</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.unpitched.china.cymbal</instrumentEntityID>
+						<techniqueIDs>pt.natural</techniqueIDs>
+						<pitch>58</pitch>
+						<name>Natural</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.unpitched.splash.cymbal</instrumentEntityID>
+						<techniqueIDs>pt.natural</techniqueIDs>
+						<pitch>59</pitch>
+						<name>Natural</name>
 					</entry>
 					<entry>
 						<instrumentEntityID>instrument.orchestral.unpitched.snare.drum</instrumentEntityID>
