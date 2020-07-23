@@ -36,7 +36,22 @@ See sample-project.dorico
 | | Open Three-Quarters | 78 |  |  |
 | | Open Loose | 79 |  |  |
 | | Open Full | 80 | Open 2 | ![image-20200723150542069](README.assets/image-20200723150542069.png) |
-| | Closed Pedal | 44 |  |  |
-| | Open Pedal | 70 |  |  |
-
+| | Closed Pedal | 44 | Natural | ![image-20200723154413102](README.assets/image-20200723154413102.png) |
+| | Open Pedal | 70 | Open 2 | ![image-20200723154353499](README.assets/image-20200723154353499.png) |
+| Tom 1 | Center Right/Left Alternating | 47 | Natural | ![image-20200723193619650](README.assets/image-20200723193619650.png) |
+|  | Rimshot | 71 | Rim Shot | ![image-20200723194341274](README.assets/image-20200723194341274.png) |
+|  | Rim Only| 75 | Rim Only | ![image-20200723194400645](README.assets/image-20200723194400645.png) |
+| Tom 2 | Center Right/Left Alternating | 45 | Natural | ![image-20200723193619650](README.assets/image-20200723193619650.png) |
+|  | Rimshot | 69 | Rim Shot | ![image-20200723194341274](README.assets/image-20200723194341274.png) |
+|  | Rim Only | 74 | Rim Only | ![image-20200723194400645](README.assets/image-20200723194400645.png) |
+| Tom 3 | Center Right/Left Alternating | 43 | Natural | ![image-20200723193619650](README.assets/image-20200723193619650.png) |
+|  | Rimshot | 67 | Rim Shot | ![image-20200723194341274](README.assets/image-20200723194341274.png) |
+|  | Rim Only| 73 | Rim Only | ![image-20200723194400645](README.assets/image-20200723194400645.png) |
+| Tom 4 | Center Right/Left Alternating | 41 | Natural | ![image-20200723193619650](README.assets/image-20200723193619650.png) |
+|  | Rimshot | 65 | Rim Shot | ![image-20200723194341274](README.assets/image-20200723194341274.png) |
+|  | Rim Only| 72 | Rim Only | ![image-20200723194400645](README.assets/image-20200723194400645.png) |
+| Cymbal 1 (High Crash) | Tip | 48 | Natural | ![image-20200723195754390](README.assets/image-20200723195754390.png) |
+|  | Bell | 50 | Center | ![image-20200723195802883](README.assets/image-20200723195802883.png) |
+|  | Edge | 49 | Crush | ![image-20200723195812447](README.assets/image-20200723195812447.png) |
+|  | Edge | 22 | Choke | ![image-20200723195829114](README.assets/image-20200723195829114.png) |
 
