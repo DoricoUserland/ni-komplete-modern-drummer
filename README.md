@@ -2,14 +2,14 @@
 
 ## Installation
 
+You should be able to open sample project as a template for your needs (delete al the flows but keep the player). 
+
+You can manually install percussion kit and percussion map, as per below, but in this case you will not be able to use some custom playing techniques.
+
 1. In Dorico setup, create a new player and click "Import Kit" and import percussion-kit.doricolib
-
 2. In Play menu, go to play->Percussion maps and import percussion-map.doricolib
-
 3. Create Kontakt VST player, load your instruments
-
 4. Map player instruments to kontakt, picking the right channel
-
 5. Click settings next to Kontakt VST and select "Komplete - Abbey Road Modern Drummer" map
 
 ## Example project

@@ -113,264 +113,308 @@
 	<drumKitNoteMapDefinitions>
 		<entities array="true">
 			<DrumKitNoteMapDefinition>
-				<name>Komplete - Abbey Road Modern Drummer</name>
-				<entityID>drumkitmap.user.komplete_abbey_road_modern_drummer</entityID>
+				<name>General MIDI</name>
+				<entityID>drumkitmap.gm</entityID>
 				<parentEntityID/>
 				<inheritanceMask>0</inheritanceMask>
 				<version>1</version>
 				<forSingleInstrument>false</forSingleInstrument>
 				<entries array="true">
 					<entry>
-						<instrumentEntityID>instrument.orchestral.unpitched.crash.cymbal.high</instrumentEntityID>
-						<techniqueIDs>pt.choke</techniqueIDs>
-						<pitch>22</pitch>
-						<name>Choke</name>
+						<instrumentEntityID>instrument.orchestral.unpitched.snare.drum</instrumentEntityID>
+						<techniqueIDs>pt.roll</techniqueIDs>
+						<pitch>29</pitch>
+						<name>Snare Roll</name>
 					</entry>
 					<entry>
-						<instrumentEntityID>instrument.orchestral.unpitched.ride.cymbal.high</instrumentEntityID>
-						<techniqueIDs>pt.choke</techniqueIDs>
-						<pitch>23</pitch>
-						<name>Choke</name>
-					</entry>
-					<entry>
-						<instrumentEntityID>instrument.orchestral.unpitched.crash.cymbal.low</instrumentEntityID>
-						<techniqueIDs>pt.choke</techniqueIDs>
-						<pitch>24</pitch>
-						<name>Choke</name>
-					</entry>
-					<entry>
-						<instrumentEntityID>instrument.unpitched.china.cymbal</instrumentEntityID>
-						<techniqueIDs>pt.choke</techniqueIDs>
-						<pitch>25</pitch>
-						<name>Choke</name>
-					</entry>
-					<entry>
-						<instrumentEntityID>instrument.unpitched.splash.cymbal</instrumentEntityID>
-						<techniqueIDs>pt.choke</techniqueIDs>
-						<pitch>26</pitch>
-						<name>Choke</name>
+						<instrumentEntityID>instrument.unpitched.kick.drum.very.low</instrumentEntityID>
+						<techniqueIDs>pt.natural</techniqueIDs>
+						<pitch>35</pitch>
+						<name>Acoustic Bass Drum</name>
 					</entry>
 					<entry>
 						<instrumentEntityID>instrument.unpitched.kick.drum.low</instrumentEntityID>
 						<techniqueIDs>pt.natural</techniqueIDs>
 						<pitch>36</pitch>
-						<name>Natural</name>
+						<name>Bass Drum</name>
 					</entry>
 					<entry>
 						<instrumentEntityID>instrument.orchestral.unpitched.snare.drum</instrumentEntityID>
-						<techniqueIDs>pt.crossStick</techniqueIDs>
+						<techniqueIDs>pt.sideStick</techniqueIDs>
 						<pitch>37</pitch>
-						<name>Side stick</name>
+						<name>Side Stick</name>
 					</entry>
 					<entry>
 						<instrumentEntityID>instrument.orchestral.unpitched.snare.drum</instrumentEntityID>
 						<techniqueIDs>pt.natural</techniqueIDs>
 						<pitch>38</pitch>
-						<name>Natural</name>
+						<name>Acoustic Snare</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.body.hand.claps</instrumentEntityID>
+						<techniqueIDs>pt.natural</techniqueIDs>
+						<pitch>39</pitch>
+						<name>Hand Clap</name>
 					</entry>
 					<entry>
 						<instrumentEntityID>instrument.orchestral.unpitched.snare.drum</instrumentEntityID>
-						<techniqueIDs>pt.rimShot</techniqueIDs>
-						<pitch>39</pitch>
-						<name>Rim shot</name>
+						<techniqueIDs>pt.natural</techniqueIDs>
+						<pitch>40</pitch>
+						<name>Electric Snare</name>
+						<variant>electric</variant>
 					</entry>
 					<entry>
-						<instrumentEntityID>instrument.band.unpitched.tomtom.low.alias.tom-low</instrumentEntityID>
+						<instrumentEntityID>instrument.band.unpitched.floortom.low</instrumentEntityID>
 						<techniqueIDs>pt.natural</techniqueIDs>
 						<pitch>41</pitch>
-						<name>Natural</name>
+						<name>Floor tom (Low)</name>
 					</entry>
 					<entry>
 						<instrumentEntityID>instrument.orchestral.unpitched.hihat</instrumentEntityID>
-						<techniqueIDs>pt.choke</techniqueIDs>
+						<techniqueIDs>pt.closed</techniqueIDs>
 						<pitch>42</pitch>
-						<name>Choke</name>
+						<name>Closed Hi-Hat</name>
 					</entry>
 					<entry>
-						<instrumentEntityID>instrument.band.unpitched.tomtom.medium-low.alias.tom-medium-low</instrumentEntityID>
+						<instrumentEntityID>instrument.band.unpitched.floortom.high</instrumentEntityID>
 						<techniqueIDs>pt.natural</techniqueIDs>
 						<pitch>43</pitch>
-						<name>Natural</name>
+						<name>Floor tom (High)</name>
 					</entry>
 					<entry>
 						<instrumentEntityID>instrument.orchestral.unpitched.hihat.pedal</instrumentEntityID>
 						<techniqueIDs>pt.natural</techniqueIDs>
 						<pitch>44</pitch>
-						<name>Natural</name>
+						<name>Pedal Hi-Hat</name>
 					</entry>
 					<entry>
-						<instrumentEntityID>instrument.band.unpitched.tomtom.medium-high.alias.tom-medium-high</instrumentEntityID>
+						<instrumentEntityID>instrument.band.unpitched.tomtom.low</instrumentEntityID>
 						<techniqueIDs>pt.natural</techniqueIDs>
 						<pitch>45</pitch>
-						<name>Natural</name>
+						<name>Low Tom</name>
 					</entry>
 					<entry>
-						<instrumentEntityID>instrument.band.unpitched.tomtom.high.alias.tom-high</instrumentEntityID>
+						<instrumentEntityID>instrument.orchestral.unpitched.hihat</instrumentEntityID>
+						<techniqueIDs>pt.open2</techniqueIDs>
+						<pitch>46</pitch>
+						<name>Open Hi-Hat</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.band.unpitched.tomtom.medium-low</instrumentEntityID>
 						<techniqueIDs>pt.natural</techniqueIDs>
 						<pitch>47</pitch>
-						<name>Natural</name>
+						<name>Tom-tom (Medium-low)</name>
 					</entry>
 					<entry>
-						<instrumentEntityID>instrument.orchestral.unpitched.crash.cymbal.high</instrumentEntityID>
+						<instrumentEntityID>instrument.band.unpitched.tomtom.medium-high</instrumentEntityID>
 						<techniqueIDs>pt.natural</techniqueIDs>
 						<pitch>48</pitch>
-						<name>Natural</name>
+						<name>Low Middle Tom</name>
 					</entry>
 					<entry>
-						<instrumentEntityID>instrument.orchestral.unpitched.crash.cymbal.high</instrumentEntityID>
-						<techniqueIDs>pt.crush</techniqueIDs>
+						<instrumentEntityID>instrument.orchestral.unpitched.crash.cymbal.low</instrumentEntityID>
+						<techniqueIDs>pt.natural</techniqueIDs>
 						<pitch>49</pitch>
-						<name>Crush</name>
+						<name>Crash Cymbal 1</name>
 					</entry>
 					<entry>
-						<instrumentEntityID>instrument.orchestral.unpitched.crash.cymbal.high</instrumentEntityID>
-						<techniqueIDs>pt.centre</techniqueIDs>
+						<instrumentEntityID>instrument.band.unpitched.tomtom.high</instrumentEntityID>
+						<techniqueIDs>pt.natural</techniqueIDs>
 						<pitch>50</pitch>
-						<name>Bell</name>
+						<name>High Tom</name>
 					</entry>
 					<entry>
-						<instrumentEntityID>instrument.orchestral.unpitched.ride.cymbal.high</instrumentEntityID>
+						<instrumentEntityID>instrument.orchestral.unpitched.ride.cymbal.low</instrumentEntityID>
 						<techniqueIDs>pt.natural</techniqueIDs>
 						<pitch>51</pitch>
-						<name>Natural</name>
+						<name>Ride Cymbal 1</name>
 					</entry>
 					<entry>
-						<instrumentEntityID>instrument.orchestral.unpitched.ride.cymbal.high</instrumentEntityID>
-						<techniqueIDs>pt.crush</techniqueIDs>
+						<instrumentEntityID>instrument.unpitched.china.cymbal</instrumentEntityID>
+						<techniqueIDs>pt.natural</techniqueIDs>
 						<pitch>52</pitch>
-						<name>Crush</name>
+						<name>Chinese Cymbal</name>
 					</entry>
 					<entry>
-						<instrumentEntityID>instrument.orchestral.unpitched.ride.cymbal.high</instrumentEntityID>
-						<techniqueIDs>pt.centre</techniqueIDs>
+						<instrumentEntityID>instrument.orchestral.unpitched.ride.cymbal.low</instrumentEntityID>
+						<techniqueIDs>pt.bell</techniqueIDs>
 						<pitch>53</pitch>
-						<name>Centre</name>
+						<name>Ride Bell</name>
 					</entry>
 					<entry>
-						<instrumentEntityID>instrument.orchestral.unpitched.crash.cymbal.low</instrumentEntityID>
+						<instrumentEntityID>instrument.percussion.other.tambourine</instrumentEntityID>
 						<techniqueIDs>pt.natural</techniqueIDs>
 						<pitch>54</pitch>
-						<name>Natural</name>
-					</entry>
-					<entry>
-						<instrumentEntityID>instrument.orchestral.unpitched.crash.cymbal.low</instrumentEntityID>
-						<techniqueIDs>pt.crush</techniqueIDs>
-						<pitch>55</pitch>
-						<name>Crush</name>
-					</entry>
-					<entry>
-						<instrumentEntityID>instrument.orchestral.unpitched.crash.cymbal.low</instrumentEntityID>
-						<techniqueIDs>pt.centre</techniqueIDs>
-						<pitch>56</pitch>
-						<name>Centre</name>
-					</entry>
-					<entry>
-						<instrumentEntityID>instrument.unpitched.china.cymbal</instrumentEntityID>
-						<techniqueIDs>pt.crush</techniqueIDs>
-						<pitch>57</pitch>
-						<name>Crush</name>
-					</entry>
-					<entry>
-						<instrumentEntityID>instrument.unpitched.china.cymbal</instrumentEntityID>
-						<techniqueIDs>pt.natural</techniqueIDs>
-						<pitch>58</pitch>
-						<name>Natural</name>
+						<name>Tambourine</name>
 					</entry>
 					<entry>
 						<instrumentEntityID>instrument.unpitched.splash.cymbal</instrumentEntityID>
 						<techniqueIDs>pt.natural</techniqueIDs>
+						<pitch>55</pitch>
+						<name>Splash Cymbal</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.percussion.other.cowbell.high</instrumentEntityID>
+						<techniqueIDs>pt.natural</techniqueIDs>
+						<pitch>56</pitch>
+						<name>Cowbell</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.orchestral.unpitched.crash.cymbal.high</instrumentEntityID>
+						<techniqueIDs>pt.natural</techniqueIDs>
+						<pitch>57</pitch>
+						<name>Crash Cymbal 2</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.latin.unpitched.jawbone</instrumentEntityID>
+						<techniqueIDs>pt.natural</techniqueIDs>
+						<pitch>58</pitch>
+						<name>Vibraslap</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.orchestral.unpitched.ride.cymbal.high</instrumentEntityID>
+						<techniqueIDs>pt.natural</techniqueIDs>
 						<pitch>59</pitch>
-						<name>Natural</name>
+						<name>Ride Cymbal 2</name>
+						<variant>2</variant>
 					</entry>
 					<entry>
-						<instrumentEntityID>instrument.orchestral.unpitched.snare.drum</instrumentEntityID>
-						<techniqueIDs>pt.rimOnly</techniqueIDs>
+						<instrumentEntityID>instrument.latin.unpitched.bongo.high</instrumentEntityID>
+						<techniqueIDs>pt.natural</techniqueIDs>
+						<pitch>60</pitch>
+						<name>High Bongo</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.latin.unpitched.bongo.low</instrumentEntityID>
+						<techniqueIDs>pt.natural</techniqueIDs>
 						<pitch>61</pitch>
-						<name>Rim only</name>
+						<name>Low Bongo</name>
 					</entry>
 					<entry>
-						<instrumentEntityID>instrument.band.unpitched.tomtom.low.alias.tom-low</instrumentEntityID>
-						<techniqueIDs>pt.rimShot</techniqueIDs>
+						<instrumentEntityID>instrument.latin.unpitched.conga.high</instrumentEntityID>
+						<techniqueIDs>pt.muted</techniqueIDs>
+						<pitch>62</pitch>
+						<name>Mute High Conga</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.latin.unpitched.conga.high</instrumentEntityID>
+						<techniqueIDs>pt.natural</techniqueIDs>
+						<pitch>63</pitch>
+						<name>Open High Conga</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.latin.unpitched.conga.low</instrumentEntityID>
+						<techniqueIDs>pt.natural</techniqueIDs>
+						<pitch>64</pitch>
+						<name>Low Conga</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.latin.unpitched.timbale.medium.low</instrumentEntityID>
+						<techniqueIDs>pt.natural</techniqueIDs>
 						<pitch>65</pitch>
-						<name>Rim shot</name>
+						<name>High Timbale</name>
 					</entry>
 					<entry>
-						<instrumentEntityID>instrument.orchestral.unpitched.hihat</instrumentEntityID>
-						<techniqueIDs>pt.closed</techniqueIDs>
+						<instrumentEntityID>instrument.latin.unpitched.timbale.medium.low</instrumentEntityID>
+						<techniqueIDs>pt.natural</techniqueIDs>
 						<pitch>66</pitch>
-						<name>Closed</name>
+						<name>Low Timbale</name>
 					</entry>
 					<entry>
-						<instrumentEntityID>instrument.band.unpitched.tomtom.medium-low.alias.tom-medium-low</instrumentEntityID>
-						<techniqueIDs>pt.rimShot</techniqueIDs>
-						<pitch>67</pitch>
-						<name>Rim shot</name>
-					</entry>
-					<entry>
-						<instrumentEntityID>instrument.orchestral.unpitched.hihat</instrumentEntityID>
-						<techniqueIDs>pt.centre+pt.choke</techniqueIDs>
-						<pitch>68</pitch>
-						<name>Centre</name>
-					</entry>
-					<entry>
-						<instrumentEntityID>instrument.band.unpitched.tomtom.medium-high.alias.tom-medium-high</instrumentEntityID>
-						<techniqueIDs>pt.rimShot</techniqueIDs>
+						<instrumentEntityID>instrument.latin.unpitched.cabasa</instrumentEntityID>
+						<techniqueIDs>pt.natural</techniqueIDs>
 						<pitch>69</pitch>
-						<name>Rim shot</name>
+						<name>Cabasa</name>
 					</entry>
 					<entry>
-						<instrumentEntityID>instrument.orchestral.unpitched.hihat.pedal</instrumentEntityID>
-						<techniqueIDs>pt.open2</techniqueIDs>
+						<instrumentEntityID>instrument.latin.unpitched.maraca.high</instrumentEntityID>
+						<techniqueIDs>pt.natural</techniqueIDs>
 						<pitch>70</pitch>
-						<name>Open 2</name>
+						<name>Maracas</name>
 					</entry>
 					<entry>
-						<instrumentEntityID>instrument.band.unpitched.tomtom.high.alias.tom-high</instrumentEntityID>
-						<techniqueIDs>pt.rimShot</techniqueIDs>
+						<instrumentEntityID>instrument.orchestral.unpitched.whistle</instrumentEntityID>
+						<techniqueIDs>pt.natural</techniqueIDs>
 						<pitch>71</pitch>
-						<name>Rim shot</name>
+						<name>Short Whistle</name>
 					</entry>
 					<entry>
-						<instrumentEntityID>instrument.band.unpitched.tomtom.low.alias.tom-low</instrumentEntityID>
-						<techniqueIDs>pt.rimOnly</techniqueIDs>
+						<instrumentEntityID>instrument.orchestral.unpitched.whistle</instrumentEntityID>
+						<techniqueIDs>pt.natural</techniqueIDs>
 						<pitch>72</pitch>
-						<name>Rim only</name>
+						<name>Long Whistle</name>
 					</entry>
 					<entry>
-						<instrumentEntityID>instrument.band.unpitched.tomtom.medium-low.alias.tom-medium-low</instrumentEntityID>
-						<techniqueIDs>pt.rimOnly</techniqueIDs>
+						<instrumentEntityID>instrument.latin.unpitched.guiro</instrumentEntityID>
+						<techniqueIDs>pt.natural</techniqueIDs>
 						<pitch>73</pitch>
-						<name>Rim only</name>
+						<name>Short Guiro</name>
 					</entry>
 					<entry>
-						<instrumentEntityID>instrument.band.unpitched.tomtom.medium-high.alias.tom-medium-high</instrumentEntityID>
-						<techniqueIDs>pt.rimOnly</techniqueIDs>
+						<instrumentEntityID>instrument.latin.unpitched.guiro</instrumentEntityID>
+						<techniqueIDs>pt.natural</techniqueIDs>
 						<pitch>74</pitch>
-						<name>Rim only</name>
+						<name>Long Guiro</name>
 					</entry>
 					<entry>
-						<instrumentEntityID>instrument.band.unpitched.tomtom.high.alias.tom-high</instrumentEntityID>
-						<techniqueIDs>pt.rimOnly</techniqueIDs>
+						<instrumentEntityID>instrument.latin.unpitched.claves</instrumentEntityID>
+						<techniqueIDs>pt.natural</techniqueIDs>
 						<pitch>75</pitch>
-						<name>Rim only</name>
+						<name>Claves</name>
 					</entry>
 					<entry>
-						<instrumentEntityID>instrument.orchestral.unpitched.hihat</instrumentEntityID>
+						<instrumentEntityID>instrument.percussion.other.wood.block.high</instrumentEntityID>
 						<techniqueIDs>pt.natural</techniqueIDs>
 						<pitch>76</pitch>
-						<name>Natural</name>
+						<name>High Wood Block</name>
 					</entry>
 					<entry>
-						<instrumentEntityID>instrument.orchestral.unpitched.hihat</instrumentEntityID>
-						<techniqueIDs>pt.halfOpen</techniqueIDs>
+						<instrumentEntityID>instrument.percussion.other.wood.block.medium</instrumentEntityID>
+						<techniqueIDs>pt.natural</techniqueIDs>
+						<pitch>76</pitch>
+						<name>Wood Block (Medium)</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.percussion.other.wood.block.medium.high</instrumentEntityID>
+						<techniqueIDs>pt.natural</techniqueIDs>
+						<pitch>76</pitch>
+						<name>Wood Block (Medium-High)</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.percussion.other.wood.block.low</instrumentEntityID>
+						<techniqueIDs>pt.natural</techniqueIDs>
 						<pitch>77</pitch>
-						<name>Half-open</name>
+						<name>Low Wood Block</name>
 					</entry>
 					<entry>
-						<instrumentEntityID>instrument.orchestral.unpitched.hihat</instrumentEntityID>
-						<techniqueIDs>pt.open2</techniqueIDs>
+						<instrumentEntityID>instrument.percussion.other.wood.block.medium.low</instrumentEntityID>
+						<techniqueIDs>pt.natural</techniqueIDs>
+						<pitch>77</pitch>
+						<name>Wood Block (Medium-Low)</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.latin.unpitched.cuica.high</instrumentEntityID>
+						<techniqueIDs>pt.natural</techniqueIDs>
+						<pitch>78</pitch>
+						<name>Cuica High</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.latin.unpitched.cuica.low</instrumentEntityID>
+						<techniqueIDs>pt.natural</techniqueIDs>
+						<pitch>79</pitch>
+						<name>Cuica Low</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.orchestral.unpitched.triangle</instrumentEntityID>
+						<techniqueIDs>pt.muted</techniqueIDs>
 						<pitch>80</pitch>
-						<name>Open 1</name>
+						<name>Mute Triangle</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.orchestral.unpitched.triangle</instrumentEntityID>
+						<techniqueIDs>pt.natural</techniqueIDs>
+						<pitch>81</pitch>
+						<name>Open Triangle</name>
 					</entry>
 				</entries>
 			</DrumKitNoteMapDefinition>
