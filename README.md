@@ -28,9 +28,9 @@ See sample-project.dorico
 |  | Rimshot | 39 | Rim shot | ![image-20200723143106420](README.assets/image-20200723143106420.png) |
 | | Sidestick | 37 | Cross stick| ![image-20200723145609345](README.assets/image-20200723145609345.png) |
 |  | Rim only | 61 | Rim only| ![image-20200723145621063](README.assets/image-20200723145621063.png) |
-| Hi-Hat | Closed Tight Tip Right/Left Alternating | 66 | Closed tight | ![image-20200724130831101](README.assets/image-20200724130831101.png) |
-| | Closed Shank Right/Left Alternating | 68 | Closed | ![image-20200724134454660](README.assets/image-20200724134454660.png) |
-| | Closed Tip Right/Left Alternating | 42 | Closed+Tip | ![image-20200724135844471](README.assets/image-20200724135844471.png) |
+| Hi-Hat | Closed Tight Tip Right/Left Alternating | 66 | Closed tight | ![image-20200724152032966](README.assets/image-20200724152032966.png) |
+| | Closed Shank Right/Left Alternating | 68 | Natural | ![image-20200724134454660](README.assets/image-20200724134454660.png) |
+| | Closed Tip Right/Left Alternating | 42 | Tip | ![image-20200724135844471](README.assets/image-20200724135844471.png) |
 | | Open Quarter | 76 | Open Quarter | ![image-20200724142219007](README.assets/image-20200724142219007.png) |
 | | Open Half | 77 | Half-open | ![image-20200723150532143](README.assets/image-20200723150532143.png) |
 | | Open Three-Quarters | 78 | Open 3 Quarters | ![image-20200724142822987](README.assets/image-20200724142822987.png) |
