@@ -67,15 +67,16 @@ See sample-project.dorico
 |  | Choke | 25 | Choke | ![image-20200723195829114](README.assets/image-20200723195829114.png) |
 | Cymbal 5 (Splash) | Edge | 59 | Natural | ![image-20200723195754390](README.assets/image-20200723195754390.png) |
 |  | Choke | 26 | Choke | ![image-20200723195829114](README.assets/image-20200723195829114.png) |
-| Perc 1 (Stick) | Hit | 35 | Natural |  |
-| Perc 2 (Clap) | Solo | 33 | Natural |  |
-| Perc 3 (Cowbell) High | Open | 29 | Natural |  |
-|  | Muted | 30 |  |  |
-| Perc 3 (Cowbell) LOW | Open | 27 | Natural |  |
-|  | Muted | 28 |  |  |
-| Perc 3 (Chopper) | High | 21 |  |  |
-|  | Mid | 19|  |  |
-| Spiral | Stick | 31 |  |  |
-| | Mallet | 32 |  |  |
+| Perc 1 (Stick) | Hit | 35 | Natural (Claves) | ![image-20200724161528366](README.assets/image-20200724161528366.png) |
+| Perc 2 (Clap) | Solo | 33 | Natural | ![image-20200724161535337](README.assets/image-20200724161535337.png) |
+| | Multi | 34 | Chorus | ![image-20200724161603769](README.assets/image-20200724161603769.png) |
+| Perc 3 (Cowbell) High | Open | 19 | Natural | ![image-20200724161620549](README.assets/image-20200724161620549.png) |
+|  | Muted | 21 | Muted | ![image-20200724161642875](README.assets/image-20200724161642875.png) |
+| Perc 3 (Cowbell) LOW | Open | 16 | Natural | ![image-20200724161624424](README.assets/image-20200724161624424.png) |
+|  | Muted | 17 | Muted | ![image-20200724161637285](README.assets/image-20200724161637285.png) |
+| Perc 3 (Chopper) | High | 29 | Natural | ![image-20200724161624424](README.assets/image-20200724161624424.png) |
+|  | Mid | 18 | Down | ![image-20200724161738346](README.assets/image-20200724161738346.png) |
+| Tambourine | Tap | 31 | Natural | ![image-20200724161535337](README.assets/image-20200724161535337.png) |
+| | Shake | 32 | Shake | ![image-20200724161637285](README.assets/image-20200724161637285.png) |
 
 
