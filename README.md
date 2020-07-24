@@ -28,13 +28,13 @@ See sample-project.dorico
 |  | Rimshot | 39 | Rim shot | ![image-20200723143106420](README.assets/image-20200723143106420.png) |
 | | Sidestick | 37 | Cross stick| ![image-20200723145609345](README.assets/image-20200723145609345.png) |
 |  | Rim only | 61 | Rim only| ![image-20200723145621063](README.assets/image-20200723145621063.png) |
-| Hi-Hat | Closed Tight Tip Right/Left Alternating | 66 | Closed| ![image-20200723150445749](README.assets/image-20200723150445749.png) |
-| | Closed Tip Right/Left Alternating | 42 | Choke| ![image-20200723150458475](README.assets/image-20200723150458475.png) |
-| | Closed Shank Right/Left Alternating | 68 | Centre + Choke| ![image-20200723150510693](README.assets/image-20200723150510693.png) |
-| | Open Quarter | 76 | Natural | ![image-20200723150521300](README.assets/image-20200723150521300.png) |
+| Hi-Hat | Closed Tight Tip Right/Left Alternating | 66 | Closed tight | ![image-20200724130831101](README.assets/image-20200724130831101.png) |
+| | Closed Shank Right/Left Alternating | 68 | Closed | ![image-20200724134454660](README.assets/image-20200724134454660.png) |
+| | Closed Tip Right/Left Alternating | 42 | Closed+Tip | ![image-20200724135844471](README.assets/image-20200724135844471.png) |
+| | Open Quarter | 76 | Open Quarter | ![image-20200724142219007](README.assets/image-20200724142219007.png) |
 | | Open Half | 77 | Half-open | ![image-20200723150532143](README.assets/image-20200723150532143.png) |
-| | Open Three-Quarters | 78 |  |  |
-| | Open Loose | 79 |  |  |
+| | Open Three-Quarters | 78 | Open 3 Quarters | ![image-20200724142822987](README.assets/image-20200724142822987.png) |
+| | Open Loose | 79 | Open Loose | ![image-20200724143837784](README.assets/image-20200724143837784.png) |
 | | Open Full | 80 | Open 2 | ![image-20200723150542069](README.assets/image-20200723150542069.png) |
 | | Closed Pedal | 44 | Natural | ![image-20200723154413102](README.assets/image-20200723154413102.png) |
 | | Open Pedal | 70 | Open 2 | ![image-20200723154353499](README.assets/image-20200723154353499.png) |
@@ -51,15 +51,15 @@ See sample-project.dorico
 |  | Rimshot | 65 | Rim Shot | ![image-20200723194341274](README.assets/image-20200723194341274.png) |
 |  | Rim Only| 72 | Rim Only | ![image-20200723194400645](README.assets/image-20200723194400645.png) |
 | Cymbal 1 (High Crash) | Tip | 48 | Natural | ![image-20200723195754390](README.assets/image-20200723195754390.png) |
-|  | Bell | 50 | Center | ![image-20200723195802883](README.assets/image-20200723195802883.png) |
+|  | Bell | 50 | Center | ![image-20200724121859868](README.assets/image-20200724121859868.png) |
 |  | Edge | 49 | Crush | ![image-20200723195812447](README.assets/image-20200723195812447.png) |
 |  | Choke | 22 | Choke | ![image-20200723195829114](README.assets/image-20200723195829114.png) |
 | Cymbal 2 (Low Crash) | Tip | 54 | Natural | ![image-20200723195754390](README.assets/image-20200723195754390.png) |
-|  | Bell | 56 | Center | ![image-20200723195802883](README.assets/image-20200723195802883.png) |
+|  | Bell | 56 | Center | ![image-20200724121859868](README.assets/image-20200724121859868.png) |
 |  | Edge | 55 | Crush | ![image-20200723195812447](README.assets/image-20200723195812447.png) |
 |  | Choke | 24 | Choke | ![image-20200723195829114](README.assets/image-20200723195829114.png) |
 | Cymbal 3 (Ride) | Tip | 51 | Natural | ![image-20200723195754390](README.assets/image-20200723195754390.png) |
-|  | Bell | 53 | Center | ![image-20200723195802883](README.assets/image-20200723195802883.png) |
+|  | Bell | 53 | Center | ![image-20200724121859868](README.assets/image-20200724121859868.png) |
 |  | Edge | 52 | Crush | ![image-20200723195812447](README.assets/image-20200723195812447.png) |
 |  | Choke | 23 | Choke | ![image-20200723195829114](README.assets/image-20200723195829114.png) |
 | Cymbal 4 (China) | Tip | 58 | Natural | ![image-20200723195754390](README.assets/image-20200723195754390.png) |
@@ -67,4 +67,15 @@ See sample-project.dorico
 |  | Choke | 25 | Choke | ![image-20200723195829114](README.assets/image-20200723195829114.png) |
 | Cymbal 5 (Splash) | Edge | 59 | Natural | ![image-20200723195754390](README.assets/image-20200723195754390.png) |
 |  | Choke | 26 | Choke | ![image-20200723195829114](README.assets/image-20200723195829114.png) |
+| Perc 1 (Stick) | Hit | 35 | Natural |  |
+| Perc 2 (Clap) | Solo | 33 | Natural |  |
+| Perc 3 (Cowbell) High | Open | 29 | Natural |  |
+|  | Muted | 30 |  |  |
+| Perc 3 (Cowbell) LOW | Open | 27 | Natural |  |
+|  | Muted | 28 |  |  |
+| Perc 3 (Chopper) | High | 21 |  |  |
+|  | Mid | 19|  |  |
+| Spiral | Stick | 31 |  |  |
+| | Mallet | 32 |  |  |
+
 
