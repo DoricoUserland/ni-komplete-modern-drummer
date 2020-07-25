@@ -1,5 +1,13 @@
 # Dorico configuration to work with Komplete - Abbey Road Modern Drummer
 
+## Overview
+
+Dorico 3.5 mappings for Komplete Abbey Road Modern Drummer
+
+The template contains two mappings, one for white kit and one for sparkle kit. Depending on what kit you use, you need to select the right mapping.
+
+Instruments which are in one but not the other kit play wrong (although they are not mapped, they are not silent).
+
 ## Installation
 
 You should be able to open sample project as a template for your needs (delete al the flows but keep the player). 
@@ -7,7 +15,7 @@ You should be able to open sample project as a template for your needs (delete a
 You can manually install percussion kit and percussion map, as per below, but in this case you will not be able to use some custom playing techniques.
 
 1. In Dorico setup, create a new player and click "Import Kit" and import percussion-kit.doricolib
-2. In Play menu, go to play->Percussion maps and import percussion-map.doricolib
+2. In Play menu, go to play->Percussion maps and import percussion-map-white.doricolib and percussion-map-sparkle.doricolib
 3. Create Kontakt VST player, load your instruments
 4. Map player instruments to kontakt, picking the right channel
 5. Click settings next to Kontakt VST and select "Komplete - Abbey Road Modern Drummer" map
