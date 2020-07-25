@@ -20,16 +20,16 @@
 		<entities array="true">
 			<InstrumentEntityDefinition>
 				<name>China Cymbal</name>
-				<entityID>instrument.user.fee936fd50414962a9d0d7bf72eea65d</entityID>
+				<entityID>instrument.user.b93058c4208043f9b48f8427272d7f2e</entityID>
 				<parentEntityID>instrument.unpitched.china.cymbal</parentEntityID>
 				<inheritanceMask>0</inheritanceMask>
-				<nameID>instrumentname.user.e6454129d52940b3a45c91fe43e4ff71</nameID>
+				<nameID>instrumentname.user.b2412b985c2d46e8a25086c725439cc6</nameID>
 				<numStaves>1</numStaves>
 				<musicXMLSoundID>metal.cymbal.chinese</musicXMLSoundID>
 				<numberingStyle>kDummy</numberingStyle>
 				<showGuitarChords>false</showGuitarChords>
 				<showChordSymbols>false</showChordSymbols>
-				<percussionInstrumentDataID>percussion-instrument-data.user.cf9c1cd33e9b47eea631d8c66e6565e9</percussionInstrumentDataID>
+				<percussionInstrumentDataID>percussion-instrument-data.user.aa58e00ced1d451baf0a823c90a6982a</percussionInstrumentDataID>
 				<frettedInstrumentDataID/>
 				<staveDefinition>
 					<numStaveLines>1</numStaveLines>
@@ -149,16 +149,16 @@
 			</InstrumentEntityDefinition>
 			<InstrumentEntityDefinition>
 				<name>Claves</name>
-				<entityID>instrument.user.d2e8fcc1442f4c14a98130f55a079287</entityID>
+				<entityID>instrument.user.34db96b184264a728ac5462f2badee1d</entityID>
 				<parentEntityID>instrument.latin.unpitched.claves</parentEntityID>
 				<inheritanceMask>0</inheritanceMask>
-				<nameID>instrumentname.user.734117c862194ce6b6f7a61cbc531c7a</nameID>
+				<nameID>instrumentname.user.674aa4086e904db1942ec0bc02d30b85</nameID>
 				<numStaves>1</numStaves>
 				<musicXMLSoundID>wood.claves</musicXMLSoundID>
 				<numberingStyle>kDummy</numberingStyle>
 				<showGuitarChords>false</showGuitarChords>
 				<showChordSymbols>false</showChordSymbols>
-				<percussionInstrumentDataID>percussion-instrument-data.user.495513f29dd14dfd9e03b07f9b63e91a</percussionInstrumentDataID>
+				<percussionInstrumentDataID>percussion-instrument-data.user.d11c0b74c5ff42a9a8610a6ef3382d87</percussionInstrumentDataID>
 				<frettedInstrumentDataID/>
 				<staveDefinition>
 					<numStaveLines>1</numStaveLines>
@@ -255,16 +255,16 @@
 			</InstrumentEntityDefinition>
 			<InstrumentEntityDefinition>
 				<name>Cowbell</name>
-				<entityID>instrument.user.0450e81c164f44cb8f2c27479a3c456a</entityID>
+				<entityID>instrument.user.071c6313d9524f3f936c27984374d8f3</entityID>
 				<parentEntityID>instrument.percussion.other.cowbell.low</parentEntityID>
 				<inheritanceMask>0</inheritanceMask>
-				<nameID>instrumentname.user.784c2b1b57614d4b80e3d07ae196b153</nameID>
+				<nameID>instrumentname.user.6ddd52652e054b68a8f81440dd06e320</nameID>
 				<numStaves>1</numStaves>
 				<musicXMLSoundID>metal.bells.cowbell</musicXMLSoundID>
 				<numberingStyle>kDummy</numberingStyle>
 				<showGuitarChords>false</showGuitarChords>
 				<showChordSymbols>false</showChordSymbols>
-				<percussionInstrumentDataID>percussion-instrument-data.user.fb49e4dbec384023a38e60c57f180996</percussionInstrumentDataID>
+				<percussionInstrumentDataID>percussion-instrument-data.user.05f3f9f1639b4bf3b95a93e169fb3163</percussionInstrumentDataID>
 				<frettedInstrumentDataID/>
 				<staveDefinition>
 					<numStaveLines>1</numStaveLines>
@@ -363,16 +363,16 @@
 			</InstrumentEntityDefinition>
 			<InstrumentEntityDefinition>
 				<name>Cowbell</name>
-				<entityID>instrument.user.a30b11c733c64ecab01e0cc51bb58aeb</entityID>
+				<entityID>instrument.user.4010de2caadf4086a8543806e77bf9ee</entityID>
 				<parentEntityID>instrument.percussion.other.cowbell.high</parentEntityID>
 				<inheritanceMask>0</inheritanceMask>
-				<nameID>instrumentname.user.caa59923b5a4437aba4368468c44743a</nameID>
+				<nameID>instrumentname.user.8905ed1fb9324177901f148a3828755b</nameID>
 				<numStaves>1</numStaves>
 				<musicXMLSoundID>metal.bells.cowbell</musicXMLSoundID>
 				<numberingStyle>kDummy</numberingStyle>
 				<showGuitarChords>false</showGuitarChords>
 				<showChordSymbols>false</showChordSymbols>
-				<percussionInstrumentDataID>percussion-instrument-data.user.2c3d62cfc8d84bf28508cd3aa863b009</percussionInstrumentDataID>
+				<percussionInstrumentDataID>percussion-instrument-data.user.84c5b62c4f894ecebec0d0e84aa72503</percussionInstrumentDataID>
 				<frettedInstrumentDataID/>
 				<staveDefinition>
 					<numStaveLines>1</numStaveLines>
@@ -471,16 +471,16 @@
 			</InstrumentEntityDefinition>
 			<InstrumentEntityDefinition>
 				<name>Crash Cymbal</name>
-				<entityID>instrument.user.7e0015b29978458e9b1e8d67ddc44ffa</entityID>
+				<entityID>instrument.user.1960b9f57c464448836e047829358b78</entityID>
 				<parentEntityID>instrument.orchestral.unpitched.crash.cymbal.low</parentEntityID>
 				<inheritanceMask>0</inheritanceMask>
-				<nameID>instrumentname.user.69d1e0633563403dbe5d23799a104bd6</nameID>
+				<nameID>instrumentname.user.1dcef25231074c9fa9bede7627f05b90</nameID>
 				<numStaves>1</numStaves>
 				<musicXMLSoundID>metal.cymbal.crash</musicXMLSoundID>
 				<numberingStyle>kDummy</numberingStyle>
 				<showGuitarChords>false</showGuitarChords>
 				<showChordSymbols>false</showChordSymbols>
-				<percussionInstrumentDataID>percussion-instrument-data.user.11274b2ef03c4112a2f23b51b4c61152</percussionInstrumentDataID>
+				<percussionInstrumentDataID>percussion-instrument-data.user.a5d3ff0cbbf240a5b9fa1390c22e418e</percussionInstrumentDataID>
 				<frettedInstrumentDataID/>
 				<staveDefinition>
 					<numStaveLines>1</numStaveLines>
@@ -597,16 +597,16 @@
 			</InstrumentEntityDefinition>
 			<InstrumentEntityDefinition>
 				<name>Crash Cymbal</name>
-				<entityID>instrument.user.b057d6bf2b60443fbd80b0c0a305dbb3</entityID>
+				<entityID>instrument.user.8d853c1f0d7549a3bae8d0d3bc807149</entityID>
 				<parentEntityID>instrument.orchestral.unpitched.crash.cymbal.high</parentEntityID>
 				<inheritanceMask>0</inheritanceMask>
-				<nameID>instrumentname.user.09aadfb8fcdd44e885688637af72842b</nameID>
+				<nameID>instrumentname.user.b79dbb4c1f854f9e9d04e44ccc536861</nameID>
 				<numStaves>1</numStaves>
 				<musicXMLSoundID>metal.cymbal.crash</musicXMLSoundID>
 				<numberingStyle>kDummy</numberingStyle>
 				<showGuitarChords>false</showGuitarChords>
 				<showChordSymbols>false</showChordSymbols>
-				<percussionInstrumentDataID>percussion-instrument-data.user.0d8a49d967644525beae7208788ea4e7</percussionInstrumentDataID>
+				<percussionInstrumentDataID>percussion-instrument-data.user.ddbf87b81f424b34ac7e8e619b17aa0c</percussionInstrumentDataID>
 				<frettedInstrumentDataID/>
 				<staveDefinition>
 					<numStaveLines>1</numStaveLines>
@@ -720,16 +720,16 @@
 			</InstrumentEntityDefinition>
 			<InstrumentEntityDefinition>
 				<name>Drum Set</name>
-				<entityID>instrument.user.3a16090dd06b49caa7c7f73cafb629d0</entityID>
+				<entityID>instrument.user.fb12e88160824aab9be73d7a3d557ecd</entityID>
 				<parentEntityID>instrument.kit.drum.set</parentEntityID>
 				<inheritanceMask>0</inheritanceMask>
-				<nameID>instrumentname.user.e2165f6e85cc4cc084ea679ea9514bae</nameID>
+				<nameID>instrumentname.user.649541471c93408595f67e0861144e27</nameID>
 				<numStaves>1</numStaves>
 				<musicXMLSoundID/>
 				<numberingStyle>kDummy</numberingStyle>
 				<showGuitarChords>false</showGuitarChords>
 				<showChordSymbols>false</showChordSymbols>
-				<percussionKitDefinitionID>kit-definition.user.0045e53eeb6b42739b230f372748d2e4</percussionKitDefinitionID>
+				<percussionKitDefinitionID>kit-definition.user.b5e842574ade4652adaefd4f8bfe425d</percussionKitDefinitionID>
 				<frettedInstrumentDataID/>
 				<staveDefinition>
 					<numStaveLines>5</numStaveLines>
@@ -753,16 +753,16 @@
 			</InstrumentEntityDefinition>
 			<InstrumentEntityDefinition>
 				<name>Hand Clap</name>
-				<entityID>instrument.user.14384ae8fc394f9d948eedcb8e7e6b3c</entityID>
+				<entityID>instrument.user.62b89534d98d4e8da1ae3e3c5704a5db</entityID>
 				<parentEntityID>instrument.body.hand.claps</parentEntityID>
 				<inheritanceMask>0</inheritanceMask>
-				<nameID>instrumentname.user.bfbd445780f64325bfa47e3af11886c8</nameID>
+				<nameID>instrumentname.user.bf0c926c3bdf44f4bb84bc032c8d3d5b</nameID>
 				<numStaves>1</numStaves>
 				<musicXMLSoundID>effect.hand-clap</musicXMLSoundID>
 				<numberingStyle>kDummy</numberingStyle>
 				<showGuitarChords>false</showGuitarChords>
 				<showChordSymbols>false</showChordSymbols>
-				<percussionInstrumentDataID>percussion-instrument-data.user.c4b1d4ed9e55498d939d875efa9e5ee7</percussionInstrumentDataID>
+				<percussionInstrumentDataID>percussion-instrument-data.user.f3384391854c4c488a7ec8b4f2166660</percussionInstrumentDataID>
 				<frettedInstrumentDataID/>
 				<staveDefinition>
 					<numStaveLines>1</numStaveLines>
@@ -849,16 +849,16 @@
 			</InstrumentEntityDefinition>
 			<InstrumentEntityDefinition>
 				<name>Hi-hat</name>
-				<entityID>instrument.user.0f0ee2c2d56e4fa1ba398afabe18febf</entityID>
+				<entityID>instrument.user.366bfc21d12742fa945e2165ad5198cf</entityID>
 				<parentEntityID>instrument.orchestral.unpitched.hihat</parentEntityID>
 				<inheritanceMask>0</inheritanceMask>
-				<nameID>instrumentname.user.2111ed568eeb47cba3178df62573d4b1</nameID>
+				<nameID>instrumentname.user.a3f337ec84eb462080861466b8f30153</nameID>
 				<numStaves>1</numStaves>
 				<musicXMLSoundID>metal.hi-hat</musicXMLSoundID>
 				<numberingStyle>kDummy</numberingStyle>
 				<showGuitarChords>false</showGuitarChords>
 				<showChordSymbols>false</showChordSymbols>
-				<percussionInstrumentDataID>percussion-instrument-data.user.3ce9719cc7264d61ba1a688a777c067f</percussionInstrumentDataID>
+				<percussionInstrumentDataID>percussion-instrument-data.user.7dc4e81f906d44afbd1a7eeae951a51a</percussionInstrumentDataID>
 				<frettedInstrumentDataID/>
 				<staveDefinition>
 					<numStaveLines>1</numStaveLines>
@@ -973,16 +973,16 @@
 			</InstrumentEntityDefinition>
 			<InstrumentEntityDefinition>
 				<name>Hi-hat (pedal)</name>
-				<entityID>instrument.user.33915e24835a47eba7e60d5fa0d4656f</entityID>
+				<entityID>instrument.user.dd3417c6ada74dacb1b6fac21bee553d</entityID>
 				<parentEntityID>instrument.orchestral.unpitched.hihat.pedal</parentEntityID>
 				<inheritanceMask>0</inheritanceMask>
-				<nameID>instrumentname.user.fb53ffb2872f4ddfb34c5bef7bbee557</nameID>
+				<nameID>instrumentname.user.5db028fb32854d14b9d1d4f4f649b0b4</nameID>
 				<numStaves>1</numStaves>
 				<musicXMLSoundID>metal.hi-hat</musicXMLSoundID>
 				<numberingStyle>kDummy</numberingStyle>
 				<showGuitarChords>false</showGuitarChords>
 				<showChordSymbols>false</showChordSymbols>
-				<percussionInstrumentDataID>percussion-instrument-data.user.16d3b50ee9db43dba5d46f33ef092e1c</percussionInstrumentDataID>
+				<percussionInstrumentDataID>percussion-instrument-data.user.c394acead6c0433d8e907932a4100cad</percussionInstrumentDataID>
 				<frettedInstrumentDataID/>
 				<staveDefinition>
 					<numStaveLines>1</numStaveLines>
@@ -1010,16 +1010,16 @@
 			</InstrumentEntityDefinition>
 			<InstrumentEntityDefinition>
 				<name>Kick Drum</name>
-				<entityID>instrument.user.59b442014826451c9ac3277239a3d59d</entityID>
+				<entityID>instrument.user.36acee2f8294499093f711b2adc089e1</entityID>
 				<parentEntityID>instrument.unpitched.kick.drum.low</parentEntityID>
 				<inheritanceMask>0</inheritanceMask>
-				<nameID>instrumentname.user.4d4a0430242b4ec7ab51764ccd9d2179</nameID>
+				<nameID>instrumentname.user.67bfa241cae042328fedc0272427de3d</nameID>
 				<numStaves>1</numStaves>
 				<musicXMLSoundID>drum.kick-drum</musicXMLSoundID>
 				<numberingStyle>kDummy</numberingStyle>
 				<showGuitarChords>false</showGuitarChords>
 				<showChordSymbols>false</showChordSymbols>
-				<percussionInstrumentDataID>percussion-instrument-data.user.99abc8787c71409ca516891627dbc748</percussionInstrumentDataID>
+				<percussionInstrumentDataID>percussion-instrument-data.user.79cf787bea0547c5a34df29e541fbbf8</percussionInstrumentDataID>
 				<frettedInstrumentDataID/>
 				<staveDefinition>
 					<numStaveLines>1</numStaveLines>
@@ -1115,16 +1115,16 @@
 			</InstrumentEntityDefinition>
 			<InstrumentEntityDefinition>
 				<name>Ride Cymbal</name>
-				<entityID>instrument.user.c9da88b7cf6543fd836dc957b147d166</entityID>
+				<entityID>instrument.user.431d14a166cd41b3869c9d2d6bf14de7</entityID>
 				<parentEntityID>instrument.orchestral.unpitched.ride.cymbal.high</parentEntityID>
 				<inheritanceMask>0</inheritanceMask>
-				<nameID>instrumentname.user.506cdd74c63540a8bb4dcbbf39aecc90</nameID>
+				<nameID>instrumentname.user.96387ffb126a4ef687faa3aff0d238d4</nameID>
 				<numStaves>1</numStaves>
 				<musicXMLSoundID>metal.cymbal.ride</musicXMLSoundID>
 				<numberingStyle>kDummy</numberingStyle>
 				<showGuitarChords>false</showGuitarChords>
 				<showChordSymbols>false</showChordSymbols>
-				<percussionInstrumentDataID>percussion-instrument-data.user.493b2d7ca84b410eb0580afdbacb0871</percussionInstrumentDataID>
+				<percussionInstrumentDataID>percussion-instrument-data.user.77a2644251364cbcbd21a72afa681ab2</percussionInstrumentDataID>
 				<frettedInstrumentDataID/>
 				<staveDefinition>
 					<numStaveLines>1</numStaveLines>
@@ -1148,16 +1148,16 @@
 			</InstrumentEntityDefinition>
 			<InstrumentEntityDefinition>
 				<name>Sizzle Cymbal</name>
-				<entityID>instrument.user.9f03ba445456459daa3c966d9863a214</entityID>
+				<entityID>instrument.user.e5178a8a2a794e69a63b1240982d31d6</entityID>
 				<parentEntityID>instrument.orchestral.unpitched.sizzle.cymbal</parentEntityID>
 				<inheritanceMask>0</inheritanceMask>
-				<nameID>instrumentname.user.1280617dbbbf4d3ba5e77794f1ae7463</nameID>
+				<nameID>instrumentname.user.8035a5dd91ac49e691c41164db0aac8c</nameID>
 				<numStaves>1</numStaves>
 				<musicXMLSoundID>metal.cymbal.sizzle</musicXMLSoundID>
 				<numberingStyle>kDummy</numberingStyle>
 				<showGuitarChords>false</showGuitarChords>
 				<showChordSymbols>false</showChordSymbols>
-				<percussionInstrumentDataID>percussion-instrument-data.user.49cb0e1d18314c70b3199a7c9d575029</percussionInstrumentDataID>
+				<percussionInstrumentDataID>percussion-instrument-data.user.6a4e77eb05a54db8ba87f3987fe6c232</percussionInstrumentDataID>
 				<frettedInstrumentDataID/>
 				<staveDefinition>
 					<numStaveLines>1</numStaveLines>
@@ -1274,16 +1274,16 @@
 			</InstrumentEntityDefinition>
 			<InstrumentEntityDefinition>
 				<name>Snare Drum</name>
-				<entityID>instrument.user.2986356bd2384c649a83ee9898bc37a8</entityID>
+				<entityID>instrument.user.44d630db46f64e339d2a5ea293ff7641</entityID>
 				<parentEntityID>instrument.orchestral.unpitched.snare.drum</parentEntityID>
 				<inheritanceMask>0</inheritanceMask>
-				<nameID>instrumentname.user.fac2d717d07d4551bf96e1a3affa5324</nameID>
+				<nameID>instrumentname.user.1cdc10a8f8e44ae88b3e0192b5e96fa3</nameID>
 				<numStaves>1</numStaves>
 				<musicXMLSoundID>drum.snare-drum</musicXMLSoundID>
 				<numberingStyle>kDummy</numberingStyle>
 				<showGuitarChords>false</showGuitarChords>
 				<showChordSymbols>false</showChordSymbols>
-				<percussionInstrumentDataID>percussion-instrument-data.user.21a2f1cb5f79420cb10dad314902493c</percussionInstrumentDataID>
+				<percussionInstrumentDataID>percussion-instrument-data.user.1808917e885d4f7fa0509132a9398754</percussionInstrumentDataID>
 				<frettedInstrumentDataID/>
 				<staveDefinition>
 					<numStaveLines>1</numStaveLines>
@@ -1421,16 +1421,16 @@
 			</InstrumentEntityDefinition>
 			<InstrumentEntityDefinition>
 				<name>Splash Cymbal</name>
-				<entityID>instrument.user.50566747e8854b18afcf2632777191e0</entityID>
+				<entityID>instrument.user.64795a25e2e64a9f867542101c0c5032</entityID>
 				<parentEntityID>instrument.unpitched.splash.cymbal</parentEntityID>
 				<inheritanceMask>0</inheritanceMask>
-				<nameID>instrumentname.user.caf5830546c24cd5a661838485be111f</nameID>
+				<nameID>instrumentname.user.6b8ffd1daae84dcbbe104a21bbdb1fb4</nameID>
 				<numStaves>1</numStaves>
 				<musicXMLSoundID>metal.cymbal.splash</musicXMLSoundID>
 				<numberingStyle>kDummy</numberingStyle>
 				<showGuitarChords>false</showGuitarChords>
 				<showChordSymbols>false</showChordSymbols>
-				<percussionInstrumentDataID>percussion-instrument-data.user.231047120bda470c9620fcd19f38998a</percussionInstrumentDataID>
+				<percussionInstrumentDataID>percussion-instrument-data.user.521c281d0c7c4b22adde8c0cb3d91059</percussionInstrumentDataID>
 				<frettedInstrumentDataID/>
 				<staveDefinition>
 					<numStaveLines>1</numStaveLines>
@@ -1549,17 +1549,146 @@
 				</playingTechniques>
 			</InstrumentEntityDefinition>
 			<InstrumentEntityDefinition>
+				<name>Suspended Cymbal</name>
+				<entityID>instrument.user.8a5096880b444f8c989e43ffea50f343</entityID>
+				<parentEntityID>instrument.orchestral.unpitched.suspended.cymbal</parentEntityID>
+				<inheritanceMask>0</inheritanceMask>
+				<nameID>instrumentname.user.a04025c2becf4dd9bddbba367a656172</nameID>
+				<numStaves>1</numStaves>
+				<musicXMLSoundID>metal.cymbal.suspended</musicXMLSoundID>
+				<numberingStyle>kDummy</numberingStyle>
+				<showGuitarChords>false</showGuitarChords>
+				<showChordSymbols>false</showChordSymbols>
+				<percussionInstrumentDataID>percussion-instrument-data.user.879358e4275148178722a90ff8fb0185</percussionInstrumentDataID>
+				<frettedInstrumentDataID/>
+				<staveDefinition>
+					<numStaveLines>1</numStaveLines>
+					<barlineSpan>1</barlineSpan>
+					<useBrace>false</useBrace>
+					<isVocalStave>false</isVocalStave>
+					<defaultContextualStemDirectionIsUp>true</defaultContextualStemDirectionIsUp>
+				</staveDefinition>
+				<clefs>
+					<clefIDsForEachStave array="true">
+						<staveClefIDs>
+							<idForTransposingLayouts>clef.percussion</idForTransposingLayouts>
+						</staveClefIDs>
+					</clefIDsForEachStave>
+				</clefs>
+				<playingTechniques array="true">
+					<playingTechnique>
+						<techniqueID>pt.accent</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.crescendo</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.crescendoDiminuendo</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.diminuendo</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.diminuendoCrescendo</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.f</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.ff</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.fff</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.ffp</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.fp</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.marcato</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.mf</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.mp</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.natural</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.pp</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.ppp</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.sf</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.sfp</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.sfz</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.simile</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.staccatissimo</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.staccato</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.tenuto</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.tremolo</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.bowed</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.laissezVibrer</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.scrape</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.ghostNote</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.deadStroke</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.p</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.damp</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.bell</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.edgeCymbals</techniqueID>
+					</playingTechnique>
+				</playingTechniques>
+			</InstrumentEntityDefinition>
+			<InstrumentEntityDefinition>
 				<name>Tambourine</name>
-				<entityID>instrument.user.e96a2fce620049fda946d9d41d824b9c</entityID>
+				<entityID>instrument.user.abb6c347c1e640cc8d3f3b7231eaf49e</entityID>
 				<parentEntityID>instrument.percussion.other.tambourine</parentEntityID>
 				<inheritanceMask>0</inheritanceMask>
-				<nameID>instrumentname.user.e835983737dc46d4875fbcba107f0f89</nameID>
+				<nameID>instrumentname.user.256c2917336448509953f63c81954e71</nameID>
 				<numStaves>1</numStaves>
 				<musicXMLSoundID>drum.tambourine</musicXMLSoundID>
 				<numberingStyle>kDummy</numberingStyle>
 				<showGuitarChords>false</showGuitarChords>
 				<showChordSymbols>false</showChordSymbols>
-				<percussionInstrumentDataID>percussion-instrument-data.user.f348e61db29240c895469a48d153094f</percussionInstrumentDataID>
+				<percussionInstrumentDataID>percussion-instrument-data.user.845c6b2f62174b0faeb18ed8c3e2e5c6</percussionInstrumentDataID>
 				<frettedInstrumentDataID/>
 				<staveDefinition>
 					<numStaveLines>1</numStaveLines>
@@ -1661,448 +1790,448 @@
 			</InstrumentEntityDefinition>
 			<InstrumentEntityDefinition>
 				<name>Tom</name>
-				<entityID>instrument.user.6c647fb6947e404bbd419e561575819b</entityID>
-				<parentEntityID>instrument.band.unpitched.tomtom.low.alias.tom-low</parentEntityID>
-				<inheritanceMask>0</inheritanceMask>
-				<nameID>instrumentname.user.b0823905a269464a9101300488877288</nameID>
-				<numStaves>1</numStaves>
-				<musicXMLSoundID>drum.tom-tom</musicXMLSoundID>
-				<numberingStyle>kDummy</numberingStyle>
-				<showGuitarChords>false</showGuitarChords>
-				<showChordSymbols>false</showChordSymbols>
-				<percussionInstrumentDataID>percussion-instrument-data.user.c90191d7f53a484a90c92fd24983dc25</percussionInstrumentDataID>
-				<frettedInstrumentDataID/>
-				<staveDefinition>
-					<numStaveLines>1</numStaveLines>
-					<barlineSpan>1</barlineSpan>
-					<useBrace>false</useBrace>
-					<isVocalStave>false</isVocalStave>
-					<defaultContextualStemDirectionIsUp>true</defaultContextualStemDirectionIsUp>
-				</staveDefinition>
-				<clefs>
-					<clefIDsForEachStave array="true">
-						<staveClefIDs>
-							<idForTransposingLayouts>clef.percussion</idForTransposingLayouts>
-						</staveClefIDs>
-					</clefIDsForEachStave>
-				</clefs>
-				<playingTechniques array="true">
-					<playingTechnique>
-						<techniqueID>pt.accent</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.crescendo</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.crescendoDiminuendo</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.diminuendo</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.diminuendoCrescendo</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.f</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.ff</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.fff</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.ffp</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.fp</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.marcato</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.mf</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.mp</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.natural</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.pp</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.ppp</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.sf</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.sfp</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.sfz</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.simile</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.staccatissimo</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.staccato</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.tenuto</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.tremolo</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.p</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.rimKnock</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.crossStick</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.buzzRoll</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.muffledDamped</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.rim</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.ghostNote</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.deadStroke</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.centre</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.edgeDrums</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.open2</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.shell</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.click</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.damp</techniqueID>
-					</playingTechnique>
-				</playingTechniques>
-			</InstrumentEntityDefinition>
-			<InstrumentEntityDefinition>
-				<name>Tom</name>
-				<entityID>instrument.user.bd3b93efadfa4bf0b1bb40612e67b2f2</entityID>
-				<parentEntityID>instrument.band.unpitched.tomtom.medium-high.alias.tom-medium-high</parentEntityID>
-				<inheritanceMask>0</inheritanceMask>
-				<nameID>instrumentname.user.7832560d57f94fcf92994572eb57ce9d</nameID>
-				<numStaves>1</numStaves>
-				<musicXMLSoundID>drum.tom-tom</musicXMLSoundID>
-				<numberingStyle>kDummy</numberingStyle>
-				<showGuitarChords>false</showGuitarChords>
-				<showChordSymbols>false</showChordSymbols>
-				<percussionInstrumentDataID>percussion-instrument-data.user.1ccaccf740404af381813f2d7b992e23</percussionInstrumentDataID>
-				<frettedInstrumentDataID/>
-				<staveDefinition>
-					<numStaveLines>1</numStaveLines>
-					<barlineSpan>1</barlineSpan>
-					<useBrace>false</useBrace>
-					<isVocalStave>false</isVocalStave>
-					<defaultContextualStemDirectionIsUp>true</defaultContextualStemDirectionIsUp>
-				</staveDefinition>
-				<clefs>
-					<clefIDsForEachStave array="true">
-						<staveClefIDs>
-							<idForTransposingLayouts>clef.percussion</idForTransposingLayouts>
-						</staveClefIDs>
-					</clefIDsForEachStave>
-				</clefs>
-				<playingTechniques array="true">
-					<playingTechnique>
-						<techniqueID>pt.accent</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.crescendo</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.crescendoDiminuendo</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.diminuendo</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.diminuendoCrescendo</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.f</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.ff</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.fff</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.ffp</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.fp</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.marcato</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.mf</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.mp</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.natural</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.pp</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.ppp</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.sf</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.sfp</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.sfz</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.simile</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.staccatissimo</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.staccato</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.tenuto</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.tremolo</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.p</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.rimKnock</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.crossStick</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.buzzRoll</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.muffledDamped</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.rim</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.ghostNote</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.deadStroke</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.centre</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.edgeDrums</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.open2</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.shell</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.click</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.damp</techniqueID>
-					</playingTechnique>
-				</playingTechniques>
-			</InstrumentEntityDefinition>
-			<InstrumentEntityDefinition>
-				<name>Tom</name>
-				<entityID>instrument.user.c0513315a1f74bedac56a426bc10dca8</entityID>
-				<parentEntityID>instrument.band.unpitched.tomtom.medium-low.alias.tom-medium-low</parentEntityID>
-				<inheritanceMask>0</inheritanceMask>
-				<nameID>instrumentname.user.489c89d0728046c993a762677c968473</nameID>
-				<numStaves>1</numStaves>
-				<musicXMLSoundID>drum.tom-tom</musicXMLSoundID>
-				<numberingStyle>kDummy</numberingStyle>
-				<showGuitarChords>false</showGuitarChords>
-				<showChordSymbols>false</showChordSymbols>
-				<percussionInstrumentDataID>percussion-instrument-data.user.90297cd1ace44699aa3688ab2befa972</percussionInstrumentDataID>
-				<frettedInstrumentDataID/>
-				<staveDefinition>
-					<numStaveLines>1</numStaveLines>
-					<barlineSpan>1</barlineSpan>
-					<useBrace>false</useBrace>
-					<isVocalStave>false</isVocalStave>
-					<defaultContextualStemDirectionIsUp>true</defaultContextualStemDirectionIsUp>
-				</staveDefinition>
-				<clefs>
-					<clefIDsForEachStave array="true">
-						<staveClefIDs>
-							<idForTransposingLayouts>clef.percussion</idForTransposingLayouts>
-						</staveClefIDs>
-					</clefIDsForEachStave>
-				</clefs>
-				<playingTechniques array="true">
-					<playingTechnique>
-						<techniqueID>pt.accent</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.crescendo</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.crescendoDiminuendo</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.diminuendo</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.diminuendoCrescendo</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.f</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.ff</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.fff</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.ffp</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.fp</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.marcato</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.mf</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.mp</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.natural</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.pp</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.ppp</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.sf</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.sfp</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.sfz</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.simile</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.staccatissimo</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.staccato</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.tenuto</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.tremolo</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.p</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.rimKnock</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.crossStick</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.buzzRoll</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.muffledDamped</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.rim</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.ghostNote</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.deadStroke</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.centre</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.edgeDrums</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.open2</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.shell</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.click</techniqueID>
-					</playingTechnique>
-					<playingTechnique>
-						<techniqueID>pt.damp</techniqueID>
-					</playingTechnique>
-				</playingTechniques>
-			</InstrumentEntityDefinition>
-			<InstrumentEntityDefinition>
-				<name>Tom</name>
-				<entityID>instrument.user.eef81414060848f0a58c807c34a6d283</entityID>
+				<entityID>instrument.user.b623beb53e3c47478b4fb0e77a8c24c6</entityID>
 				<parentEntityID>instrument.band.unpitched.tomtom.high.alias.tom-high</parentEntityID>
 				<inheritanceMask>0</inheritanceMask>
-				<nameID>instrumentname.user.96f977ca00bf4cf8bdd8d7296c6bc9e3</nameID>
+				<nameID>instrumentname.user.a84aa9d523ef44999a61608fe267b929</nameID>
 				<numStaves>1</numStaves>
 				<musicXMLSoundID>drum.tom-tom</musicXMLSoundID>
 				<numberingStyle>kDummy</numberingStyle>
 				<showGuitarChords>false</showGuitarChords>
 				<showChordSymbols>false</showChordSymbols>
-				<percussionInstrumentDataID>percussion-instrument-data.user.868f4111792f47429327fd2fa7038c82</percussionInstrumentDataID>
+				<percussionInstrumentDataID>percussion-instrument-data.user.ef254f6744ab4522a0c7fa363db31fc8</percussionInstrumentDataID>
+				<frettedInstrumentDataID/>
+				<staveDefinition>
+					<numStaveLines>1</numStaveLines>
+					<barlineSpan>1</barlineSpan>
+					<useBrace>false</useBrace>
+					<isVocalStave>false</isVocalStave>
+					<defaultContextualStemDirectionIsUp>true</defaultContextualStemDirectionIsUp>
+				</staveDefinition>
+				<clefs>
+					<clefIDsForEachStave array="true">
+						<staveClefIDs>
+							<idForTransposingLayouts>clef.percussion</idForTransposingLayouts>
+						</staveClefIDs>
+					</clefIDsForEachStave>
+				</clefs>
+				<playingTechniques array="true">
+					<playingTechnique>
+						<techniqueID>pt.accent</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.crescendo</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.crescendoDiminuendo</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.diminuendo</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.diminuendoCrescendo</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.f</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.ff</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.fff</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.ffp</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.fp</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.marcato</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.mf</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.mp</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.natural</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.pp</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.ppp</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.sf</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.sfp</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.sfz</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.simile</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.staccatissimo</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.staccato</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.tenuto</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.tremolo</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.p</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.rimKnock</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.crossStick</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.buzzRoll</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.muffledDamped</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.rim</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.ghostNote</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.deadStroke</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.centre</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.edgeDrums</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.open2</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.shell</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.click</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.damp</techniqueID>
+					</playingTechnique>
+				</playingTechniques>
+			</InstrumentEntityDefinition>
+			<InstrumentEntityDefinition>
+				<name>Tom</name>
+				<entityID>instrument.user.bd3aff285d044d68a8069f17b2711716</entityID>
+				<parentEntityID>instrument.band.unpitched.tomtom.medium-high.alias.tom-medium-high</parentEntityID>
+				<inheritanceMask>0</inheritanceMask>
+				<nameID>instrumentname.user.faf86acce528488a9d1303e827276b99</nameID>
+				<numStaves>1</numStaves>
+				<musicXMLSoundID>drum.tom-tom</musicXMLSoundID>
+				<numberingStyle>kDummy</numberingStyle>
+				<showGuitarChords>false</showGuitarChords>
+				<showChordSymbols>false</showChordSymbols>
+				<percussionInstrumentDataID>percussion-instrument-data.user.e6fca9a7c5c8413ca96778e36567c1e4</percussionInstrumentDataID>
+				<frettedInstrumentDataID/>
+				<staveDefinition>
+					<numStaveLines>1</numStaveLines>
+					<barlineSpan>1</barlineSpan>
+					<useBrace>false</useBrace>
+					<isVocalStave>false</isVocalStave>
+					<defaultContextualStemDirectionIsUp>true</defaultContextualStemDirectionIsUp>
+				</staveDefinition>
+				<clefs>
+					<clefIDsForEachStave array="true">
+						<staveClefIDs>
+							<idForTransposingLayouts>clef.percussion</idForTransposingLayouts>
+						</staveClefIDs>
+					</clefIDsForEachStave>
+				</clefs>
+				<playingTechniques array="true">
+					<playingTechnique>
+						<techniqueID>pt.accent</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.crescendo</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.crescendoDiminuendo</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.diminuendo</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.diminuendoCrescendo</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.f</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.ff</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.fff</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.ffp</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.fp</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.marcato</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.mf</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.mp</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.natural</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.pp</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.ppp</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.sf</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.sfp</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.sfz</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.simile</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.staccatissimo</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.staccato</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.tenuto</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.tremolo</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.p</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.rimKnock</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.crossStick</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.buzzRoll</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.muffledDamped</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.rim</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.ghostNote</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.deadStroke</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.centre</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.edgeDrums</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.open2</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.shell</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.click</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.damp</techniqueID>
+					</playingTechnique>
+				</playingTechniques>
+			</InstrumentEntityDefinition>
+			<InstrumentEntityDefinition>
+				<name>Tom</name>
+				<entityID>instrument.user.c6233633f8e94ad28cc27ae56a71cc82</entityID>
+				<parentEntityID>instrument.band.unpitched.tomtom.medium-low.alias.tom-medium-low</parentEntityID>
+				<inheritanceMask>0</inheritanceMask>
+				<nameID>instrumentname.user.7578d9e97c5b419897a3890315f78cbc</nameID>
+				<numStaves>1</numStaves>
+				<musicXMLSoundID>drum.tom-tom</musicXMLSoundID>
+				<numberingStyle>kDummy</numberingStyle>
+				<showGuitarChords>false</showGuitarChords>
+				<showChordSymbols>false</showChordSymbols>
+				<percussionInstrumentDataID>percussion-instrument-data.user.dacbf2ba18fd446d9d856b3f44e60372</percussionInstrumentDataID>
+				<frettedInstrumentDataID/>
+				<staveDefinition>
+					<numStaveLines>1</numStaveLines>
+					<barlineSpan>1</barlineSpan>
+					<useBrace>false</useBrace>
+					<isVocalStave>false</isVocalStave>
+					<defaultContextualStemDirectionIsUp>true</defaultContextualStemDirectionIsUp>
+				</staveDefinition>
+				<clefs>
+					<clefIDsForEachStave array="true">
+						<staveClefIDs>
+							<idForTransposingLayouts>clef.percussion</idForTransposingLayouts>
+						</staveClefIDs>
+					</clefIDsForEachStave>
+				</clefs>
+				<playingTechniques array="true">
+					<playingTechnique>
+						<techniqueID>pt.accent</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.crescendo</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.crescendoDiminuendo</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.diminuendo</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.diminuendoCrescendo</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.f</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.ff</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.fff</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.ffp</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.fp</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.marcato</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.mf</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.mp</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.natural</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.pp</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.ppp</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.sf</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.sfp</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.sfz</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.simile</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.staccatissimo</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.staccato</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.tenuto</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.tremolo</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.p</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.rimKnock</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.crossStick</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.buzzRoll</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.muffledDamped</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.rim</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.ghostNote</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.deadStroke</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.centre</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.edgeDrums</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.open2</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.shell</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.click</techniqueID>
+					</playingTechnique>
+					<playingTechnique>
+						<techniqueID>pt.damp</techniqueID>
+					</playingTechnique>
+				</playingTechniques>
+			</InstrumentEntityDefinition>
+			<InstrumentEntityDefinition>
+				<name>Tom</name>
+				<entityID>instrument.user.e40e3319b3b84b8e85e85f0b4a418923</entityID>
+				<parentEntityID>instrument.band.unpitched.tomtom.low.alias.tom-low</parentEntityID>
+				<inheritanceMask>0</inheritanceMask>
+				<nameID>instrumentname.user.186ca19be37741299e5914d8557ac03a</nameID>
+				<numStaves>1</numStaves>
+				<musicXMLSoundID>drum.tom-tom</musicXMLSoundID>
+				<numberingStyle>kDummy</numberingStyle>
+				<showGuitarChords>false</showGuitarChords>
+				<showChordSymbols>false</showChordSymbols>
+				<percussionInstrumentDataID>percussion-instrument-data.user.69804392e9954424b33cd68832d33cbf</percussionInstrumentDataID>
 				<frettedInstrumentDataID/>
 				<staveDefinition>
 					<numStaveLines>1</numStaveLines>
@@ -2240,173 +2369,8 @@
 	<instrumentNames>
 		<entities array="true">
 			<InstrumentNameEntityDefinition>
-				<name>instrumentname.user.09aadfb8fcdd44e885688637af72842b</name>
-				<entityID>instrumentname.user.09aadfb8fcdd44e885688637af72842b</entityID>
-				<parentEntityID/>
-				<inheritanceMask>0</inheritanceMask>
-				<data>
-					<uiName>Crash Cymbal (High)</uiName>
-					<singularFullName>Crash Cymbal</singularFullName>
-					<singularShortName>Cr. Cym.</singularShortName>
-					<pluralFullName>Crash Cymbals</pluralFullName>
-					<pluralShortName>Cr. Cym.</pluralShortName>
-					<gender>kNeutral</gender>
-					<language>kEnglish</language>
-				</data>
-			</InstrumentNameEntityDefinition>
-			<InstrumentNameEntityDefinition>
-				<name>instrumentname.user.1280617dbbbf4d3ba5e77794f1ae7463</name>
-				<entityID>instrumentname.user.1280617dbbbf4d3ba5e77794f1ae7463</entityID>
-				<parentEntityID/>
-				<inheritanceMask>0</inheritanceMask>
-				<data>
-					<uiName>Sizzle Cymbal</uiName>
-					<singularFullName>Chopper</singularFullName>
-					<singularShortName>Chop</singularShortName>
-					<pluralFullName>Sizzle Cymbals</pluralFullName>
-					<pluralShortName>Sz. Cym.</pluralShortName>
-					<gender>kNeutral</gender>
-					<language>kEnglish</language>
-				</data>
-			</InstrumentNameEntityDefinition>
-			<InstrumentNameEntityDefinition>
-				<name>instrumentname.user.2111ed568eeb47cba3178df62573d4b1</name>
-				<entityID>instrumentname.user.2111ed568eeb47cba3178df62573d4b1</entityID>
-				<parentEntityID/>
-				<inheritanceMask>0</inheritanceMask>
-				<data>
-					<uiName>Hi-hat</uiName>
-					<singularFullName>Hi-hat</singularFullName>
-					<singularShortName>H-hat</singularShortName>
-					<pluralFullName>Hi-hats</pluralFullName>
-					<pluralShortName>H-hats</pluralShortName>
-					<gender>kNeutral</gender>
-					<language>kEnglish</language>
-				</data>
-			</InstrumentNameEntityDefinition>
-			<InstrumentNameEntityDefinition>
-				<name>instrumentname.user.489c89d0728046c993a762677c968473</name>
-				<entityID>instrumentname.user.489c89d0728046c993a762677c968473</entityID>
-				<parentEntityID/>
-				<inheritanceMask>0</inheritanceMask>
-				<data>
-					<uiName>Tom (Medium-low)</uiName>
-					<singularFullName>Tom</singularFullName>
-					<singularShortName>Tom</singularShortName>
-					<pluralFullName>Toms</pluralFullName>
-					<pluralShortName>Toms</pluralShortName>
-					<gender>kNeutral</gender>
-					<language>kEnglish</language>
-				</data>
-			</InstrumentNameEntityDefinition>
-			<InstrumentNameEntityDefinition>
-				<name>instrumentname.user.4d4a0430242b4ec7ab51764ccd9d2179</name>
-				<entityID>instrumentname.user.4d4a0430242b4ec7ab51764ccd9d2179</entityID>
-				<parentEntityID/>
-				<inheritanceMask>0</inheritanceMask>
-				<data>
-					<uiName>Kick Drum (Low)</uiName>
-					<singularFullName>Kick Drum</singularFullName>
-					<singularShortName>K. Dr.</singularShortName>
-					<pluralFullName>Kick Drums</pluralFullName>
-					<pluralShortName>K. Dr.</pluralShortName>
-					<gender>kNeutral</gender>
-					<language>kEnglish</language>
-				</data>
-			</InstrumentNameEntityDefinition>
-			<InstrumentNameEntityDefinition>
-				<name>instrumentname.user.506cdd74c63540a8bb4dcbbf39aecc90</name>
-				<entityID>instrumentname.user.506cdd74c63540a8bb4dcbbf39aecc90</entityID>
-				<parentEntityID/>
-				<inheritanceMask>0</inheritanceMask>
-				<data>
-					<uiName>Ride Cymbal (High)</uiName>
-					<singularFullName>Ride Cymbal</singularFullName>
-					<singularShortName>R. Cym.</singularShortName>
-					<pluralFullName>Ride Cymbals</pluralFullName>
-					<pluralShortName>R. Cym.</pluralShortName>
-					<gender>kNeutral</gender>
-					<language>kEnglish</language>
-				</data>
-			</InstrumentNameEntityDefinition>
-			<InstrumentNameEntityDefinition>
-				<name>instrumentname.user.69d1e0633563403dbe5d23799a104bd6</name>
-				<entityID>instrumentname.user.69d1e0633563403dbe5d23799a104bd6</entityID>
-				<parentEntityID/>
-				<inheritanceMask>0</inheritanceMask>
-				<data>
-					<uiName>Crash Cymbal (Low)</uiName>
-					<singularFullName>Crash Cymbal</singularFullName>
-					<singularShortName>Cr. Cym.</singularShortName>
-					<pluralFullName>Crash Cymbals</pluralFullName>
-					<pluralShortName>Cr. Cym.</pluralShortName>
-					<gender>kNeutral</gender>
-					<language>kEnglish</language>
-				</data>
-			</InstrumentNameEntityDefinition>
-			<InstrumentNameEntityDefinition>
-				<name>instrumentname.user.734117c862194ce6b6f7a61cbc531c7a</name>
-				<entityID>instrumentname.user.734117c862194ce6b6f7a61cbc531c7a</entityID>
-				<parentEntityID/>
-				<inheritanceMask>0</inheritanceMask>
-				<data>
-					<uiName>Claves</uiName>
-					<singularFullName>Drumsticks</singularFullName>
-					<singularShortName>Stick</singularShortName>
-					<pluralFullName>Claves</pluralFullName>
-					<pluralShortName>Clv.</pluralShortName>
-					<gender>kNeutral</gender>
-					<language>kEnglish</language>
-				</data>
-			</InstrumentNameEntityDefinition>
-			<InstrumentNameEntityDefinition>
-				<name>instrumentname.user.7832560d57f94fcf92994572eb57ce9d</name>
-				<entityID>instrumentname.user.7832560d57f94fcf92994572eb57ce9d</entityID>
-				<parentEntityID/>
-				<inheritanceMask>0</inheritanceMask>
-				<data>
-					<uiName>Tom (Medium-high)</uiName>
-					<singularFullName>Tom</singularFullName>
-					<singularShortName>Tom</singularShortName>
-					<pluralFullName>Toms</pluralFullName>
-					<pluralShortName>Toms</pluralShortName>
-					<gender>kNeutral</gender>
-					<language>kEnglish</language>
-				</data>
-			</InstrumentNameEntityDefinition>
-			<InstrumentNameEntityDefinition>
-				<name>instrumentname.user.784c2b1b57614d4b80e3d07ae196b153</name>
-				<entityID>instrumentname.user.784c2b1b57614d4b80e3d07ae196b153</entityID>
-				<parentEntityID/>
-				<inheritanceMask>0</inheritanceMask>
-				<data>
-					<uiName>Cowbell (Low)</uiName>
-					<singularFullName>Cowbell</singularFullName>
-					<singularShortName>C-bell</singularShortName>
-					<pluralFullName>Cowbells</pluralFullName>
-					<pluralShortName>C-bells</pluralShortName>
-					<gender>kNeutral</gender>
-					<language>kEnglish</language>
-				</data>
-			</InstrumentNameEntityDefinition>
-			<InstrumentNameEntityDefinition>
-				<name>instrumentname.user.96f977ca00bf4cf8bdd8d7296c6bc9e3</name>
-				<entityID>instrumentname.user.96f977ca00bf4cf8bdd8d7296c6bc9e3</entityID>
-				<parentEntityID/>
-				<inheritanceMask>0</inheritanceMask>
-				<data>
-					<uiName>Tom (High)</uiName>
-					<singularFullName>Tom</singularFullName>
-					<singularShortName>Tom</singularShortName>
-					<pluralFullName>Toms</pluralFullName>
-					<pluralShortName>Toms</pluralShortName>
-					<gender>kNeutral</gender>
-					<language>kEnglish</language>
-				</data>
-			</InstrumentNameEntityDefinition>
-			<InstrumentNameEntityDefinition>
-				<name>instrumentname.user.b0823905a269464a9101300488877288</name>
-				<entityID>instrumentname.user.b0823905a269464a9101300488877288</entityID>
+				<name>instrumentname.user.186ca19be37741299e5914d8557ac03a</name>
+				<entityID>instrumentname.user.186ca19be37741299e5914d8557ac03a</entityID>
 				<parentEntityID/>
 				<inheritanceMask>0</inheritanceMask>
 				<data>
@@ -2420,98 +2384,8 @@
 				</data>
 			</InstrumentNameEntityDefinition>
 			<InstrumentNameEntityDefinition>
-				<name>instrumentname.user.bfbd445780f64325bfa47e3af11886c8</name>
-				<entityID>instrumentname.user.bfbd445780f64325bfa47e3af11886c8</entityID>
-				<parentEntityID/>
-				<inheritanceMask>0</inheritanceMask>
-				<data>
-					<uiName>Hand Claps</uiName>
-					<singularFullName>Hand Clap</singularFullName>
-					<singularShortName>H. C.</singularShortName>
-					<pluralFullName>Hand Claps</pluralFullName>
-					<pluralShortName>H. C.</pluralShortName>
-					<gender>kNeutral</gender>
-					<language>kEnglish</language>
-				</data>
-			</InstrumentNameEntityDefinition>
-			<InstrumentNameEntityDefinition>
-				<name>instrumentname.user.caa59923b5a4437aba4368468c44743a</name>
-				<entityID>instrumentname.user.caa59923b5a4437aba4368468c44743a</entityID>
-				<parentEntityID/>
-				<inheritanceMask>0</inheritanceMask>
-				<data>
-					<uiName>Cowbell (High)</uiName>
-					<singularFullName>Cowbell</singularFullName>
-					<singularShortName>C-bell</singularShortName>
-					<pluralFullName>Cowbells</pluralFullName>
-					<pluralShortName>C-bells</pluralShortName>
-					<gender>kNeutral</gender>
-					<language>kEnglish</language>
-				</data>
-			</InstrumentNameEntityDefinition>
-			<InstrumentNameEntityDefinition>
-				<name>instrumentname.user.caf5830546c24cd5a661838485be111f</name>
-				<entityID>instrumentname.user.caf5830546c24cd5a661838485be111f</entityID>
-				<parentEntityID/>
-				<inheritanceMask>0</inheritanceMask>
-				<data>
-					<uiName>Splash Cymbal</uiName>
-					<singularFullName>Splash Cymbal</singularFullName>
-					<singularShortName>Sp. Cym.</singularShortName>
-					<pluralFullName>Splash Cymbals</pluralFullName>
-					<pluralShortName>Sp. Cym.</pluralShortName>
-					<gender>kNeutral</gender>
-					<language>kEnglish</language>
-				</data>
-			</InstrumentNameEntityDefinition>
-			<InstrumentNameEntityDefinition>
-				<name>instrumentname.user.e2165f6e85cc4cc084ea679ea9514bae</name>
-				<entityID>instrumentname.user.e2165f6e85cc4cc084ea679ea9514bae</entityID>
-				<parentEntityID/>
-				<inheritanceMask>0</inheritanceMask>
-				<data>
-					<uiName>Percussion (1 line kit)</uiName>
-					<singularFullName>Komplete - Abbey Road Modern Drummer</singularFullName>
-					<singularShortName>Perc.</singularShortName>
-					<pluralFullName>Komplete - Abbey Road Modern Drummer</pluralFullName>
-					<pluralShortName>Perc.</pluralShortName>
-					<gender>kNeutral</gender>
-					<language>kEnglish</language>
-				</data>
-			</InstrumentNameEntityDefinition>
-			<InstrumentNameEntityDefinition>
-				<name>instrumentname.user.e6454129d52940b3a45c91fe43e4ff71</name>
-				<entityID>instrumentname.user.e6454129d52940b3a45c91fe43e4ff71</entityID>
-				<parentEntityID/>
-				<inheritanceMask>0</inheritanceMask>
-				<data>
-					<uiName>China Cymbal</uiName>
-					<singularFullName>China Cymbal</singularFullName>
-					<singularShortName>Ch. Cym.</singularShortName>
-					<pluralFullName>China Cymbals</pluralFullName>
-					<pluralShortName>Ch. Cym.</pluralShortName>
-					<gender>kNeutral</gender>
-					<language>kEnglish</language>
-				</data>
-			</InstrumentNameEntityDefinition>
-			<InstrumentNameEntityDefinition>
-				<name>instrumentname.user.e835983737dc46d4875fbcba107f0f89</name>
-				<entityID>instrumentname.user.e835983737dc46d4875fbcba107f0f89</entityID>
-				<parentEntityID/>
-				<inheritanceMask>0</inheritanceMask>
-				<data>
-					<uiName>Tambourine</uiName>
-					<singularFullName>Tambourine</singularFullName>
-					<singularShortName>Tamb.</singularShortName>
-					<pluralFullName>Tambourines</pluralFullName>
-					<pluralShortName>Tamb.</pluralShortName>
-					<gender>kNeutral</gender>
-					<language>kEnglish</language>
-				</data>
-			</InstrumentNameEntityDefinition>
-			<InstrumentNameEntityDefinition>
-				<name>instrumentname.user.fac2d717d07d4551bf96e1a3affa5324</name>
-				<entityID>instrumentname.user.fac2d717d07d4551bf96e1a3affa5324</entityID>
+				<name>instrumentname.user.1cdc10a8f8e44ae88b3e0192b5e96fa3</name>
+				<entityID>instrumentname.user.1cdc10a8f8e44ae88b3e0192b5e96fa3</entityID>
 				<parentEntityID/>
 				<inheritanceMask>0</inheritanceMask>
 				<data>
@@ -2525,8 +2399,38 @@
 				</data>
 			</InstrumentNameEntityDefinition>
 			<InstrumentNameEntityDefinition>
-				<name>instrumentname.user.fb53ffb2872f4ddfb34c5bef7bbee557</name>
-				<entityID>instrumentname.user.fb53ffb2872f4ddfb34c5bef7bbee557</entityID>
+				<name>instrumentname.user.1dcef25231074c9fa9bede7627f05b90</name>
+				<entityID>instrumentname.user.1dcef25231074c9fa9bede7627f05b90</entityID>
+				<parentEntityID/>
+				<inheritanceMask>0</inheritanceMask>
+				<data>
+					<uiName>Crash Cymbal (Low)</uiName>
+					<singularFullName>Crash Cymbal</singularFullName>
+					<singularShortName>Cr. Cym.</singularShortName>
+					<pluralFullName>Crash Cymbals</pluralFullName>
+					<pluralShortName>Cr. Cym.</pluralShortName>
+					<gender>kNeutral</gender>
+					<language>kEnglish</language>
+				</data>
+			</InstrumentNameEntityDefinition>
+			<InstrumentNameEntityDefinition>
+				<name>instrumentname.user.256c2917336448509953f63c81954e71</name>
+				<entityID>instrumentname.user.256c2917336448509953f63c81954e71</entityID>
+				<parentEntityID/>
+				<inheritanceMask>0</inheritanceMask>
+				<data>
+					<uiName>Tambourine</uiName>
+					<singularFullName>Tambourine</singularFullName>
+					<singularShortName>Tamb.</singularShortName>
+					<pluralFullName>Tambourines</pluralFullName>
+					<pluralShortName>Tamb.</pluralShortName>
+					<gender>kNeutral</gender>
+					<language>kEnglish</language>
+				</data>
+			</InstrumentNameEntityDefinition>
+			<InstrumentNameEntityDefinition>
+				<name>instrumentname.user.5db028fb32854d14b9d1d4f4f649b0b4</name>
+				<entityID>instrumentname.user.5db028fb32854d14b9d1d4f4f649b0b4</entityID>
 				<parentEntityID/>
 				<inheritanceMask>0</inheritanceMask>
 				<data>
@@ -2535,6 +2439,246 @@
 					<singularShortName>H-hat</singularShortName>
 					<pluralFullName>Hi-hats</pluralFullName>
 					<pluralShortName>H-hats</pluralShortName>
+					<gender>kNeutral</gender>
+					<language>kEnglish</language>
+				</data>
+			</InstrumentNameEntityDefinition>
+			<InstrumentNameEntityDefinition>
+				<name>instrumentname.user.649541471c93408595f67e0861144e27</name>
+				<entityID>instrumentname.user.649541471c93408595f67e0861144e27</entityID>
+				<parentEntityID/>
+				<inheritanceMask>0</inheritanceMask>
+				<data>
+					<uiName>Percussion (1 line kit)</uiName>
+					<singularFullName>Komplete - Abbey Road Modern Drummer</singularFullName>
+					<singularShortName>Mod. Drum. Spark.</singularShortName>
+					<pluralFullName>Komplete - Abbey Road Modern Drummer</pluralFullName>
+					<pluralShortName>Perc.</pluralShortName>
+					<gender>kNeutral</gender>
+					<language>kEnglish</language>
+				</data>
+			</InstrumentNameEntityDefinition>
+			<InstrumentNameEntityDefinition>
+				<name>instrumentname.user.674aa4086e904db1942ec0bc02d30b85</name>
+				<entityID>instrumentname.user.674aa4086e904db1942ec0bc02d30b85</entityID>
+				<parentEntityID/>
+				<inheritanceMask>0</inheritanceMask>
+				<data>
+					<uiName>Claves</uiName>
+					<singularFullName>Drumsticks</singularFullName>
+					<singularShortName>Stick</singularShortName>
+					<pluralFullName>Claves</pluralFullName>
+					<pluralShortName>Clv.</pluralShortName>
+					<gender>kNeutral</gender>
+					<language>kEnglish</language>
+				</data>
+			</InstrumentNameEntityDefinition>
+			<InstrumentNameEntityDefinition>
+				<name>instrumentname.user.67bfa241cae042328fedc0272427de3d</name>
+				<entityID>instrumentname.user.67bfa241cae042328fedc0272427de3d</entityID>
+				<parentEntityID/>
+				<inheritanceMask>0</inheritanceMask>
+				<data>
+					<uiName>Kick Drum (Low)</uiName>
+					<singularFullName>Kick Drum</singularFullName>
+					<singularShortName>K. Dr.</singularShortName>
+					<pluralFullName>Kick Drums</pluralFullName>
+					<pluralShortName>K. Dr.</pluralShortName>
+					<gender>kNeutral</gender>
+					<language>kEnglish</language>
+				</data>
+			</InstrumentNameEntityDefinition>
+			<InstrumentNameEntityDefinition>
+				<name>instrumentname.user.6b8ffd1daae84dcbbe104a21bbdb1fb4</name>
+				<entityID>instrumentname.user.6b8ffd1daae84dcbbe104a21bbdb1fb4</entityID>
+				<parentEntityID/>
+				<inheritanceMask>0</inheritanceMask>
+				<data>
+					<uiName>Splash Cymbal</uiName>
+					<singularFullName>Splash Cymbal</singularFullName>
+					<singularShortName>Sp. Cym.</singularShortName>
+					<pluralFullName>Splash Cymbals</pluralFullName>
+					<pluralShortName>Sp. Cym.</pluralShortName>
+					<gender>kNeutral</gender>
+					<language>kEnglish</language>
+				</data>
+			</InstrumentNameEntityDefinition>
+			<InstrumentNameEntityDefinition>
+				<name>instrumentname.user.6ddd52652e054b68a8f81440dd06e320</name>
+				<entityID>instrumentname.user.6ddd52652e054b68a8f81440dd06e320</entityID>
+				<parentEntityID/>
+				<inheritanceMask>0</inheritanceMask>
+				<data>
+					<uiName>Cowbell (Low)</uiName>
+					<singularFullName>Cowbell</singularFullName>
+					<singularShortName>C-bell</singularShortName>
+					<pluralFullName>Cowbells</pluralFullName>
+					<pluralShortName>C-bells</pluralShortName>
+					<gender>kNeutral</gender>
+					<language>kEnglish</language>
+				</data>
+			</InstrumentNameEntityDefinition>
+			<InstrumentNameEntityDefinition>
+				<name>instrumentname.user.7578d9e97c5b419897a3890315f78cbc</name>
+				<entityID>instrumentname.user.7578d9e97c5b419897a3890315f78cbc</entityID>
+				<parentEntityID/>
+				<inheritanceMask>0</inheritanceMask>
+				<data>
+					<uiName>Tom (Medium-low)</uiName>
+					<singularFullName>Tom</singularFullName>
+					<singularShortName>Tom</singularShortName>
+					<pluralFullName>Toms</pluralFullName>
+					<pluralShortName>Toms</pluralShortName>
+					<gender>kNeutral</gender>
+					<language>kEnglish</language>
+				</data>
+			</InstrumentNameEntityDefinition>
+			<InstrumentNameEntityDefinition>
+				<name>instrumentname.user.8035a5dd91ac49e691c41164db0aac8c</name>
+				<entityID>instrumentname.user.8035a5dd91ac49e691c41164db0aac8c</entityID>
+				<parentEntityID/>
+				<inheritanceMask>0</inheritanceMask>
+				<data>
+					<uiName>Sizzle Cymbal</uiName>
+					<singularFullName>Chopper</singularFullName>
+					<singularShortName>Chop</singularShortName>
+					<pluralFullName>Sizzle Cymbals</pluralFullName>
+					<pluralShortName>Sz. Cym.</pluralShortName>
+					<gender>kNeutral</gender>
+					<language>kEnglish</language>
+				</data>
+			</InstrumentNameEntityDefinition>
+			<InstrumentNameEntityDefinition>
+				<name>instrumentname.user.8905ed1fb9324177901f148a3828755b</name>
+				<entityID>instrumentname.user.8905ed1fb9324177901f148a3828755b</entityID>
+				<parentEntityID/>
+				<inheritanceMask>0</inheritanceMask>
+				<data>
+					<uiName>Cowbell (High)</uiName>
+					<singularFullName>Cowbell</singularFullName>
+					<singularShortName>C-bell</singularShortName>
+					<pluralFullName>Cowbells</pluralFullName>
+					<pluralShortName>C-bells</pluralShortName>
+					<gender>kNeutral</gender>
+					<language>kEnglish</language>
+				</data>
+			</InstrumentNameEntityDefinition>
+			<InstrumentNameEntityDefinition>
+				<name>instrumentname.user.96387ffb126a4ef687faa3aff0d238d4</name>
+				<entityID>instrumentname.user.96387ffb126a4ef687faa3aff0d238d4</entityID>
+				<parentEntityID/>
+				<inheritanceMask>0</inheritanceMask>
+				<data>
+					<uiName>Ride Cymbal (High)</uiName>
+					<singularFullName>Ride Cymbal</singularFullName>
+					<singularShortName>R. Cym.</singularShortName>
+					<pluralFullName>Ride Cymbals</pluralFullName>
+					<pluralShortName>R. Cym.</pluralShortName>
+					<gender>kNeutral</gender>
+					<language>kEnglish</language>
+				</data>
+			</InstrumentNameEntityDefinition>
+			<InstrumentNameEntityDefinition>
+				<name>instrumentname.user.a04025c2becf4dd9bddbba367a656172</name>
+				<entityID>instrumentname.user.a04025c2becf4dd9bddbba367a656172</entityID>
+				<parentEntityID/>
+				<inheritanceMask>0</inheritanceMask>
+				<data>
+					<uiName>Suspended Cymbal</uiName>
+					<singularFullName>Spiral</singularFullName>
+					<singularShortName>Spiral</singularShortName>
+					<pluralFullName>Suspended Cymbals</pluralFullName>
+					<pluralShortName>Sus. Cym.</pluralShortName>
+					<gender>kNeutral</gender>
+					<language>kEnglish</language>
+				</data>
+			</InstrumentNameEntityDefinition>
+			<InstrumentNameEntityDefinition>
+				<name>instrumentname.user.a3f337ec84eb462080861466b8f30153</name>
+				<entityID>instrumentname.user.a3f337ec84eb462080861466b8f30153</entityID>
+				<parentEntityID/>
+				<inheritanceMask>0</inheritanceMask>
+				<data>
+					<uiName>Hi-hat</uiName>
+					<singularFullName>Hi-hat</singularFullName>
+					<singularShortName>H-hat</singularShortName>
+					<pluralFullName>Hi-hats</pluralFullName>
+					<pluralShortName>H-hats</pluralShortName>
+					<gender>kNeutral</gender>
+					<language>kEnglish</language>
+				</data>
+			</InstrumentNameEntityDefinition>
+			<InstrumentNameEntityDefinition>
+				<name>instrumentname.user.a84aa9d523ef44999a61608fe267b929</name>
+				<entityID>instrumentname.user.a84aa9d523ef44999a61608fe267b929</entityID>
+				<parentEntityID/>
+				<inheritanceMask>0</inheritanceMask>
+				<data>
+					<uiName>Tom (High)</uiName>
+					<singularFullName>Tom</singularFullName>
+					<singularShortName>Tom</singularShortName>
+					<pluralFullName>Toms</pluralFullName>
+					<pluralShortName>Toms</pluralShortName>
+					<gender>kNeutral</gender>
+					<language>kEnglish</language>
+				</data>
+			</InstrumentNameEntityDefinition>
+			<InstrumentNameEntityDefinition>
+				<name>instrumentname.user.b2412b985c2d46e8a25086c725439cc6</name>
+				<entityID>instrumentname.user.b2412b985c2d46e8a25086c725439cc6</entityID>
+				<parentEntityID/>
+				<inheritanceMask>0</inheritanceMask>
+				<data>
+					<uiName>China Cymbal</uiName>
+					<singularFullName>China Cymbal</singularFullName>
+					<singularShortName>Ch. Cym.</singularShortName>
+					<pluralFullName>China Cymbals</pluralFullName>
+					<pluralShortName>Ch. Cym.</pluralShortName>
+					<gender>kNeutral</gender>
+					<language>kEnglish</language>
+				</data>
+			</InstrumentNameEntityDefinition>
+			<InstrumentNameEntityDefinition>
+				<name>instrumentname.user.b79dbb4c1f854f9e9d04e44ccc536861</name>
+				<entityID>instrumentname.user.b79dbb4c1f854f9e9d04e44ccc536861</entityID>
+				<parentEntityID/>
+				<inheritanceMask>0</inheritanceMask>
+				<data>
+					<uiName>Crash Cymbal (High)</uiName>
+					<singularFullName>Crash Cymbal</singularFullName>
+					<singularShortName>Cr. Cym.</singularShortName>
+					<pluralFullName>Crash Cymbals</pluralFullName>
+					<pluralShortName>Cr. Cym.</pluralShortName>
+					<gender>kNeutral</gender>
+					<language>kEnglish</language>
+				</data>
+			</InstrumentNameEntityDefinition>
+			<InstrumentNameEntityDefinition>
+				<name>instrumentname.user.bf0c926c3bdf44f4bb84bc032c8d3d5b</name>
+				<entityID>instrumentname.user.bf0c926c3bdf44f4bb84bc032c8d3d5b</entityID>
+				<parentEntityID/>
+				<inheritanceMask>0</inheritanceMask>
+				<data>
+					<uiName>Hand Claps</uiName>
+					<singularFullName>Hand Clap</singularFullName>
+					<singularShortName>H. C.</singularShortName>
+					<pluralFullName>Hand Claps</pluralFullName>
+					<pluralShortName>H. C.</pluralShortName>
+					<gender>kNeutral</gender>
+					<language>kEnglish</language>
+				</data>
+			</InstrumentNameEntityDefinition>
+			<InstrumentNameEntityDefinition>
+				<name>instrumentname.user.faf86acce528488a9d1303e827276b99</name>
+				<entityID>instrumentname.user.faf86acce528488a9d1303e827276b99</entityID>
+				<parentEntityID/>
+				<inheritanceMask>0</inheritanceMask>
+				<data>
+					<uiName>Tom (Medium-high)</uiName>
+					<singularFullName>Tom</singularFullName>
+					<singularShortName>Tom</singularShortName>
+					<pluralFullName>Toms</pluralFullName>
+					<pluralShortName>Toms</pluralShortName>
 					<gender>kNeutral</gender>
 					<language>kEnglish</language>
 				</data>
@@ -2644,8 +2788,8 @@
 	<percussionKitDefinitionCollectionDefinition>
 		<entities array="true">
 			<PercussionKitDefinitionDefinition>
-				<name>kit-definition.user.0045e53eeb6b42739b230f372748d2e4</name>
-				<entityID>kit-definition.user.0045e53eeb6b42739b230f372748d2e4</entityID>
+				<name>kit-definition.user.b5e842574ade4652adaefd4f8bfe425d</name>
+				<entityID>kit-definition.user.b5e842574ade4652adaefd4f8bfe425d</entityID>
 				<parentEntityID/>
 				<inheritanceMask>0</inheritanceMask>
 				<kitDefinition>
@@ -2655,7 +2799,7 @@
 					<gridCentreLineShift>0</gridCentreLineShift>
 					<percussionKitComponents array="true">
 						<percussionKitComponent>
-							<instrumentEntityID>instrument.user.fee936fd50414962a9d0d7bf72eea65d</instrumentEntityID>
+							<instrumentEntityID>instrument.user.b93058c4208043f9b48f8427272d7f2e</instrumentEntityID>
 							<instrumentOrder>11</instrumentOrder>
 							<stavePosition>-4</stavePosition>
 							<destinationVoiceDirection>kUp</destinationVoiceDirection>
@@ -2667,7 +2811,7 @@
 							</ptNoteheadOverrides>
 						</percussionKitComponent>
 						<percussionKitComponent>
-							<instrumentEntityID>instrument.user.50566747e8854b18afcf2632777191e0</instrumentEntityID>
+							<instrumentEntityID>instrument.user.64795a25e2e64a9f867542101c0c5032</instrumentEntityID>
 							<instrumentOrder>12</instrumentOrder>
 							<stavePosition>0</stavePosition>
 							<destinationVoiceDirection>kUp</destinationVoiceDirection>
@@ -2679,7 +2823,7 @@
 							</ptNoteheadOverrides>
 						</percussionKitComponent>
 						<percussionKitComponent>
-							<instrumentEntityID>instrument.user.b057d6bf2b60443fbd80b0c0a305dbb3</instrumentEntityID>
+							<instrumentEntityID>instrument.user.8d853c1f0d7549a3bae8d0d3bc807149</instrumentEntityID>
 							<instrumentOrder>8</instrumentOrder>
 							<stavePosition>7</stavePosition>
 							<destinationVoiceDirection>kUp</destinationVoiceDirection>
@@ -2691,7 +2835,7 @@
 							</ptNoteheadOverrides>
 						</percussionKitComponent>
 						<percussionKitComponent>
-							<instrumentEntityID>instrument.user.7e0015b29978458e9b1e8d67ddc44ffa</instrumentEntityID>
+							<instrumentEntityID>instrument.user.1960b9f57c464448836e047829358b78</instrumentEntityID>
 							<instrumentOrder>9</instrumentOrder>
 							<stavePosition>6</stavePosition>
 							<destinationVoiceDirection>kUp</destinationVoiceDirection>
@@ -2703,7 +2847,7 @@
 							</ptNoteheadOverrides>
 						</percussionKitComponent>
 						<percussionKitComponent>
-							<instrumentEntityID>instrument.user.0f0ee2c2d56e4fa1ba398afabe18febf</instrumentEntityID>
+							<instrumentEntityID>instrument.user.366bfc21d12742fa945e2165ad5198cf</instrumentEntityID>
 							<instrumentOrder>2</instrumentOrder>
 							<stavePosition>5</stavePosition>
 							<destinationVoiceDirection>kUp</destinationVoiceDirection>
@@ -2715,7 +2859,7 @@
 							</ptNoteheadOverrides>
 						</percussionKitComponent>
 						<percussionKitComponent>
-							<instrumentEntityID>instrument.user.eef81414060848f0a58c807c34a6d283</instrumentEntityID>
+							<instrumentEntityID>instrument.user.b623beb53e3c47478b4fb0e77a8c24c6</instrumentEntityID>
 							<instrumentOrder>4</instrumentOrder>
 							<stavePosition>3</stavePosition>
 							<destinationVoiceDirection>kUp</destinationVoiceDirection>
@@ -2727,7 +2871,7 @@
 							</ptNoteheadOverrides>
 						</percussionKitComponent>
 						<percussionKitComponent>
-							<instrumentEntityID>instrument.user.bd3b93efadfa4bf0b1bb40612e67b2f2</instrumentEntityID>
+							<instrumentEntityID>instrument.user.bd3aff285d044d68a8069f17b2711716</instrumentEntityID>
 							<instrumentOrder>5</instrumentOrder>
 							<stavePosition>2</stavePosition>
 							<destinationVoiceDirection>kUp</destinationVoiceDirection>
@@ -2739,19 +2883,7 @@
 							</ptNoteheadOverrides>
 						</percussionKitComponent>
 						<percussionKitComponent>
-							<instrumentEntityID>instrument.user.c9da88b7cf6543fd836dc957b147d166</instrumentEntityID>
-							<instrumentOrder>10</instrumentOrder>
-							<stavePosition>4</stavePosition>
-							<destinationVoiceDirection>kUp</destinationVoiceDirection>
-							<destinationVoiceIndex>3</destinationVoiceIndex>
-							<gridIndex>8</gridIndex>
-							<gridNumSpacesBelow>2</gridNumSpacesBelow>
-							<ptNoteheadOverrides>
-								<ptNoteheadOverrides array="true"/>
-							</ptNoteheadOverrides>
-						</percussionKitComponent>
-						<percussionKitComponent>
-							<instrumentEntityID>instrument.user.2986356bd2384c649a83ee9898bc37a8</instrumentEntityID>
+							<instrumentEntityID>instrument.user.44d630db46f64e339d2a5ea293ff7641</instrumentEntityID>
 							<instrumentOrder>1</instrumentOrder>
 							<stavePosition>1</stavePosition>
 							<destinationVoiceDirection>kUp</destinationVoiceDirection>
@@ -2763,7 +2895,19 @@
 							</ptNoteheadOverrides>
 						</percussionKitComponent>
 						<percussionKitComponent>
-							<instrumentEntityID>instrument.user.c0513315a1f74bedac56a426bc10dca8</instrumentEntityID>
+							<instrumentEntityID>instrument.user.431d14a166cd41b3869c9d2d6bf14de7</instrumentEntityID>
+							<instrumentOrder>10</instrumentOrder>
+							<stavePosition>4</stavePosition>
+							<destinationVoiceDirection>kUp</destinationVoiceDirection>
+							<destinationVoiceIndex>3</destinationVoiceIndex>
+							<gridIndex>8</gridIndex>
+							<gridNumSpacesBelow>2</gridNumSpacesBelow>
+							<ptNoteheadOverrides>
+								<ptNoteheadOverrides array="true"/>
+							</ptNoteheadOverrides>
+						</percussionKitComponent>
+						<percussionKitComponent>
+							<instrumentEntityID>instrument.user.c6233633f8e94ad28cc27ae56a71cc82</instrumentEntityID>
 							<instrumentOrder>6</instrumentOrder>
 							<stavePosition>-1</stavePosition>
 							<destinationVoiceDirection>kUp</destinationVoiceDirection>
@@ -2775,7 +2919,7 @@
 							</ptNoteheadOverrides>
 						</percussionKitComponent>
 						<percussionKitComponent>
-							<instrumentEntityID>instrument.user.6c647fb6947e404bbd419e561575819b</instrumentEntityID>
+							<instrumentEntityID>instrument.user.e40e3319b3b84b8e85e85f0b4a418923</instrumentEntityID>
 							<instrumentOrder>7</instrumentOrder>
 							<stavePosition>-2</stavePosition>
 							<destinationVoiceDirection>kUp</destinationVoiceDirection>
@@ -2787,7 +2931,7 @@
 							</ptNoteheadOverrides>
 						</percussionKitComponent>
 						<percussionKitComponent>
-							<instrumentEntityID>instrument.user.59b442014826451c9ac3277239a3d59d</instrumentEntityID>
+							<instrumentEntityID>instrument.user.36acee2f8294499093f711b2adc089e1</instrumentEntityID>
 							<instrumentOrder>0</instrumentOrder>
 							<stavePosition>-3</stavePosition>
 							<destinationVoiceDirection>kDown</destinationVoiceDirection>
@@ -2799,7 +2943,7 @@
 							</ptNoteheadOverrides>
 						</percussionKitComponent>
 						<percussionKitComponent>
-							<instrumentEntityID>instrument.user.33915e24835a47eba7e60d5fa0d4656f</instrumentEntityID>
+							<instrumentEntityID>instrument.user.dd3417c6ada74dacb1b6fac21bee553d</instrumentEntityID>
 							<instrumentOrder>3</instrumentOrder>
 							<stavePosition>-5</stavePosition>
 							<destinationVoiceDirection>kUp</destinationVoiceDirection>
@@ -2811,9 +2955,9 @@
 							</ptNoteheadOverrides>
 						</percussionKitComponent>
 						<percussionKitComponent>
-							<instrumentEntityID>instrument.user.d2e8fcc1442f4c14a98130f55a079287</instrumentEntityID>
-							<instrumentOrder>13</instrumentOrder>
-							<stavePosition>-6</stavePosition>
+							<instrumentEntityID>instrument.user.4010de2caadf4086a8543806e77bf9ee</instrumentEntityID>
+							<instrumentOrder>15</instrumentOrder>
+							<stavePosition>-7</stavePosition>
 							<destinationVoiceDirection>kUp</destinationVoiceDirection>
 							<destinationVoiceIndex>0</destinationVoiceIndex>
 							<gridIndex>13</gridIndex>
@@ -2823,9 +2967,9 @@
 							</ptNoteheadOverrides>
 						</percussionKitComponent>
 						<percussionKitComponent>
-							<instrumentEntityID>instrument.user.14384ae8fc394f9d948eedcb8e7e6b3c</instrumentEntityID>
-							<instrumentOrder>14</instrumentOrder>
-							<stavePosition>-7</stavePosition>
+							<instrumentEntityID>instrument.user.071c6313d9524f3f936c27984374d8f3</instrumentEntityID>
+							<instrumentOrder>16</instrumentOrder>
+							<stavePosition>-8</stavePosition>
 							<destinationVoiceDirection>kUp</destinationVoiceDirection>
 							<destinationVoiceIndex>0</destinationVoiceIndex>
 							<gridIndex>14</gridIndex>
@@ -2835,9 +2979,9 @@
 							</ptNoteheadOverrides>
 						</percussionKitComponent>
 						<percussionKitComponent>
-							<instrumentEntityID>instrument.user.a30b11c733c64ecab01e0cc51bb58aeb</instrumentEntityID>
-							<instrumentOrder>15</instrumentOrder>
-							<stavePosition>-8</stavePosition>
+							<instrumentEntityID>instrument.user.e5178a8a2a794e69a63b1240982d31d6</instrumentEntityID>
+							<instrumentOrder>17</instrumentOrder>
+							<stavePosition>-6</stavePosition>
 							<destinationVoiceDirection>kUp</destinationVoiceDirection>
 							<destinationVoiceIndex>0</destinationVoiceIndex>
 							<gridIndex>15</gridIndex>
@@ -2847,9 +2991,9 @@
 							</ptNoteheadOverrides>
 						</percussionKitComponent>
 						<percussionKitComponent>
-							<instrumentEntityID>instrument.user.0450e81c164f44cb8f2c27479a3c456a</instrumentEntityID>
-							<instrumentOrder>16</instrumentOrder>
-							<stavePosition>-9</stavePosition>
+							<instrumentEntityID>instrument.user.62b89534d98d4e8da1ae3e3c5704a5db</instrumentEntityID>
+							<instrumentOrder>18</instrumentOrder>
+							<stavePosition>-10</stavePosition>
 							<destinationVoiceDirection>kUp</destinationVoiceDirection>
 							<destinationVoiceIndex>0</destinationVoiceIndex>
 							<gridIndex>16</gridIndex>
@@ -2859,9 +3003,9 @@
 							</ptNoteheadOverrides>
 						</percussionKitComponent>
 						<percussionKitComponent>
-							<instrumentEntityID>instrument.user.9f03ba445456459daa3c966d9863a214</instrumentEntityID>
-							<instrumentOrder>17</instrumentOrder>
-							<stavePosition>-10</stavePosition>
+							<instrumentEntityID>instrument.user.34db96b184264a728ac5462f2badee1d</instrumentEntityID>
+							<instrumentOrder>19</instrumentOrder>
+							<stavePosition>-9</stavePosition>
 							<destinationVoiceDirection>kUp</destinationVoiceDirection>
 							<destinationVoiceIndex>0</destinationVoiceIndex>
 							<gridIndex>17</gridIndex>
@@ -2871,12 +3015,24 @@
 							</ptNoteheadOverrides>
 						</percussionKitComponent>
 						<percussionKitComponent>
-							<instrumentEntityID>instrument.user.e96a2fce620049fda946d9d41d824b9c</instrumentEntityID>
-							<instrumentOrder>18</instrumentOrder>
+							<instrumentEntityID>instrument.user.abb6c347c1e640cc8d3f3b7231eaf49e</instrumentEntityID>
+							<instrumentOrder>20</instrumentOrder>
 							<stavePosition>-11</stavePosition>
 							<destinationVoiceDirection>kUp</destinationVoiceDirection>
 							<destinationVoiceIndex>0</destinationVoiceIndex>
 							<gridIndex>18</gridIndex>
+							<gridNumSpacesBelow>2</gridNumSpacesBelow>
+							<ptNoteheadOverrides>
+								<ptNoteheadOverrides array="true"/>
+							</ptNoteheadOverrides>
+						</percussionKitComponent>
+						<percussionKitComponent>
+							<instrumentEntityID>instrument.user.8a5096880b444f8c989e43ffea50f343</instrumentEntityID>
+							<instrumentOrder>21</instrumentOrder>
+							<stavePosition>-12</stavePosition>
+							<destinationVoiceDirection>kUp</destinationVoiceDirection>
+							<destinationVoiceIndex>0</destinationVoiceIndex>
+							<gridIndex>19</gridIndex>
 							<gridNumSpacesBelow>2</gridNumSpacesBelow>
 							<ptNoteheadOverrides>
 								<ptNoteheadOverrides array="true"/>
@@ -2891,69 +3047,26 @@
 	<percussionInstrumentDataCollectionDefinition>
 		<entities array="true">
 			<PercussionInstrumentDataDefinition>
-				<name>percussion-instrument-data.user.0d8a49d967644525beae7208788ea4e7</name>
-				<entityID>percussion-instrument-data.user.0d8a49d967644525beae7208788ea4e7</entityID>
+				<name>percussion-instrument-data.user.05f3f9f1639b4bf3b95a93e169fb3163</name>
+				<entityID>percussion-instrument-data.user.05f3f9f1639b4bf3b95a93e169fb3163</entityID>
 				<parentEntityID/>
 				<inheritanceMask>0</inheritanceMask>
 				<playingTechniquePresentations array="true">
 					<playingTechniquePresentation>
 						<playingTechniqueEntityID>pt.natural</playingTechniqueEntityID>
+						<noteheadSetEntityID>noteheadset.triangleUpNoteheads</noteheadSetEntityID>
+						<playingTechniquePresentationOverrides array="true"/>
+					</playingTechniquePresentation>
+					<playingTechniquePresentation>
+						<playingTechniqueEntityID>pt.muted</playingTechniqueEntityID>
 						<noteheadSetEntityID>noteheadset.Xnoteheads</noteheadSetEntityID>
 						<playingTechniquePresentationOverrides array="true"/>
 					</playingTechniquePresentation>
 				</playingTechniquePresentations>
 			</PercussionInstrumentDataDefinition>
 			<PercussionInstrumentDataDefinition>
-				<name>percussion-instrument-data.user.11274b2ef03c4112a2f23b51b4c61152</name>
-				<entityID>percussion-instrument-data.user.11274b2ef03c4112a2f23b51b4c61152</entityID>
-				<parentEntityID/>
-				<inheritanceMask>0</inheritanceMask>
-				<playingTechniquePresentations array="true">
-					<playingTechniquePresentation>
-						<playingTechniqueEntityID>pt.natural</playingTechniqueEntityID>
-						<noteheadSetEntityID>noteheadset.Xnoteheads</noteheadSetEntityID>
-						<playingTechniquePresentationOverrides array="true"/>
-					</playingTechniquePresentation>
-				</playingTechniquePresentations>
-			</PercussionInstrumentDataDefinition>
-			<PercussionInstrumentDataDefinition>
-				<name>percussion-instrument-data.user.16d3b50ee9db43dba5d46f33ef092e1c</name>
-				<entityID>percussion-instrument-data.user.16d3b50ee9db43dba5d46f33ef092e1c</entityID>
-				<parentEntityID/>
-				<inheritanceMask>0</inheritanceMask>
-				<playingTechniquePresentations array="true">
-					<playingTechniquePresentation>
-						<playingTechniqueEntityID>pt.natural</playingTechniqueEntityID>
-						<noteheadSetEntityID>noteheadset.Xnoteheads</noteheadSetEntityID>
-						<playingTechniquePresentationOverrides array="true"/>
-					</playingTechniquePresentation>
-				</playingTechniquePresentations>
-			</PercussionInstrumentDataDefinition>
-			<PercussionInstrumentDataDefinition>
-				<name>percussion-instrument-data.user.1ccaccf740404af381813f2d7b992e23</name>
-				<entityID>percussion-instrument-data.user.1ccaccf740404af381813f2d7b992e23</entityID>
-				<parentEntityID/>
-				<inheritanceMask>0</inheritanceMask>
-				<playingTechniquePresentations array="true">
-					<playingTechniquePresentation>
-						<playingTechniqueEntityID>pt.natural</playingTechniqueEntityID>
-						<playingTechniquePresentationOverrides array="true"/>
-					</playingTechniquePresentation>
-					<playingTechniquePresentation>
-						<playingTechniqueEntityID>pt.rimShot</playingTechniqueEntityID>
-						<noteheadSetEntityID>noteheadset.slashedNoteheadsTLBR</noteheadSetEntityID>
-						<playingTechniquePresentationOverrides array="true"/>
-					</playingTechniquePresentation>
-					<playingTechniquePresentation>
-						<playingTechniqueEntityID>pt.rimOnly</playingTechniqueEntityID>
-						<noteheadSetEntityID>noteheadset.Xnoteheads</noteheadSetEntityID>
-						<playingTechniquePresentationOverrides array="true"/>
-					</playingTechniquePresentation>
-				</playingTechniquePresentations>
-			</PercussionInstrumentDataDefinition>
-			<PercussionInstrumentDataDefinition>
-				<name>percussion-instrument-data.user.21a2f1cb5f79420cb10dad314902493c</name>
-				<entityID>percussion-instrument-data.user.21a2f1cb5f79420cb10dad314902493c</entityID>
+				<name>percussion-instrument-data.user.1808917e885d4f7fa0509132a9398754</name>
+				<entityID>percussion-instrument-data.user.1808917e885d4f7fa0509132a9398754</entityID>
 				<parentEntityID/>
 				<inheritanceMask>0</inheritanceMask>
 				<playingTechniquePresentations array="true">
@@ -2979,8 +3092,8 @@
 				</playingTechniquePresentations>
 			</PercussionInstrumentDataDefinition>
 			<PercussionInstrumentDataDefinition>
-				<name>percussion-instrument-data.user.231047120bda470c9620fcd19f38998a</name>
-				<entityID>percussion-instrument-data.user.231047120bda470c9620fcd19f38998a</entityID>
+				<name>percussion-instrument-data.user.521c281d0c7c4b22adde8c0cb3d91059</name>
+				<entityID>percussion-instrument-data.user.521c281d0c7c4b22adde8c0cb3d91059</entityID>
 				<parentEntityID/>
 				<inheritanceMask>0</inheritanceMask>
 				<playingTechniquePresentations array="true">
@@ -2992,70 +3105,35 @@
 				</playingTechniquePresentations>
 			</PercussionInstrumentDataDefinition>
 			<PercussionInstrumentDataDefinition>
-				<name>percussion-instrument-data.user.2c3d62cfc8d84bf28508cd3aa863b009</name>
-				<entityID>percussion-instrument-data.user.2c3d62cfc8d84bf28508cd3aa863b009</entityID>
+				<name>percussion-instrument-data.user.69804392e9954424b33cd68832d33cbf</name>
+				<entityID>percussion-instrument-data.user.69804392e9954424b33cd68832d33cbf</entityID>
 				<parentEntityID/>
 				<inheritanceMask>0</inheritanceMask>
 				<playingTechniquePresentations array="true">
 					<playingTechniquePresentation>
 						<playingTechniqueEntityID>pt.natural</playingTechniqueEntityID>
-						<noteheadSetEntityID>noteheadset.triangleUpNoteheads</noteheadSetEntityID>
 						<playingTechniquePresentationOverrides array="true"/>
 					</playingTechniquePresentation>
 					<playingTechniquePresentation>
-						<playingTechniqueEntityID>pt.muted</playingTechniqueEntityID>
+						<playingTechniqueEntityID>pt.rimShot</playingTechniqueEntityID>
+						<noteheadSetEntityID>noteheadset.slashedNoteheadsTLBR</noteheadSetEntityID>
+						<playingTechniquePresentationOverrides array="true"/>
+					</playingTechniquePresentation>
+					<playingTechniquePresentation>
+						<playingTechniqueEntityID>pt.rimOnly</playingTechniqueEntityID>
 						<noteheadSetEntityID>noteheadset.Xnoteheads</noteheadSetEntityID>
 						<playingTechniquePresentationOverrides array="true"/>
 					</playingTechniquePresentation>
 				</playingTechniquePresentations>
 			</PercussionInstrumentDataDefinition>
 			<PercussionInstrumentDataDefinition>
-				<name>percussion-instrument-data.user.3ce9719cc7264d61ba1a688a777c067f</name>
-				<entityID>percussion-instrument-data.user.3ce9719cc7264d61ba1a688a777c067f</entityID>
+				<name>percussion-instrument-data.user.6a4e77eb05a54db8ba87f3987fe6c232</name>
+				<entityID>percussion-instrument-data.user.6a4e77eb05a54db8ba87f3987fe6c232</entityID>
 				<parentEntityID/>
 				<inheritanceMask>0</inheritanceMask>
 				<playingTechniquePresentations array="true">
 					<playingTechniquePresentation>
 						<playingTechniqueEntityID>pt.natural</playingTechniqueEntityID>
-						<noteheadSetEntityID>noteheadset.Xnoteheads</noteheadSetEntityID>
-						<playingTechniquePresentationOverrides array="true"/>
-					</playingTechniquePresentation>
-				</playingTechniquePresentations>
-			</PercussionInstrumentDataDefinition>
-			<PercussionInstrumentDataDefinition>
-				<name>percussion-instrument-data.user.493b2d7ca84b410eb0580afdbacb0871</name>
-				<entityID>percussion-instrument-data.user.493b2d7ca84b410eb0580afdbacb0871</entityID>
-				<parentEntityID/>
-				<inheritanceMask>0</inheritanceMask>
-				<playingTechniquePresentations array="true">
-					<playingTechniquePresentation>
-						<playingTechniqueEntityID>pt.natural</playingTechniqueEntityID>
-						<noteheadSetEntityID>noteheadset.Xnoteheads</noteheadSetEntityID>
-						<playingTechniquePresentationOverrides array="true"/>
-					</playingTechniquePresentation>
-				</playingTechniquePresentations>
-			</PercussionInstrumentDataDefinition>
-			<PercussionInstrumentDataDefinition>
-				<name>percussion-instrument-data.user.495513f29dd14dfd9e03b07f9b63e91a</name>
-				<entityID>percussion-instrument-data.user.495513f29dd14dfd9e03b07f9b63e91a</entityID>
-				<parentEntityID/>
-				<inheritanceMask>0</inheritanceMask>
-				<playingTechniquePresentations array="true">
-					<playingTechniquePresentation>
-						<playingTechniqueEntityID>pt.natural</playingTechniqueEntityID>
-						<playingTechniquePresentationOverrides array="true"/>
-					</playingTechniquePresentation>
-				</playingTechniquePresentations>
-			</PercussionInstrumentDataDefinition>
-			<PercussionInstrumentDataDefinition>
-				<name>percussion-instrument-data.user.49cb0e1d18314c70b3199a7c9d575029</name>
-				<entityID>percussion-instrument-data.user.49cb0e1d18314c70b3199a7c9d575029</entityID>
-				<parentEntityID/>
-				<inheritanceMask>0</inheritanceMask>
-				<playingTechniquePresentations array="true">
-					<playingTechniquePresentation>
-						<playingTechniqueEntityID>pt.natural</playingTechniqueEntityID>
-						<noteheadSetEntityID>noteheadset.triangleUpNoteheads</noteheadSetEntityID>
 						<playingTechniquePresentationOverrides array="true"/>
 					</playingTechniquePresentation>
 					<playingTechniquePresentation>
@@ -3063,106 +3141,16 @@
 						<noteheadSetEntityID>noteheadset.triangleDownNoteheads</noteheadSetEntityID>
 						<playingTechniquePresentationOverrides array="true"/>
 					</playingTechniquePresentation>
-				</playingTechniquePresentations>
-			</PercussionInstrumentDataDefinition>
-			<PercussionInstrumentDataDefinition>
-				<name>percussion-instrument-data.user.868f4111792f47429327fd2fa7038c82</name>
-				<entityID>percussion-instrument-data.user.868f4111792f47429327fd2fa7038c82</entityID>
-				<parentEntityID/>
-				<inheritanceMask>0</inheritanceMask>
-				<playingTechniquePresentations array="true">
 					<playingTechniquePresentation>
-						<playingTechniqueEntityID>pt.natural</playingTechniqueEntityID>
-						<playingTechniquePresentationOverrides array="true"/>
-					</playingTechniquePresentation>
-					<playingTechniquePresentation>
-						<playingTechniqueEntityID>pt.rimShot</playingTechniqueEntityID>
-						<noteheadSetEntityID>noteheadset.slashedNoteheadsTLBR</noteheadSetEntityID>
-						<playingTechniquePresentationOverrides array="true"/>
-					</playingTechniquePresentation>
-					<playingTechniquePresentation>
-						<playingTechniqueEntityID>pt.rimOnly</playingTechniqueEntityID>
-						<noteheadSetEntityID>noteheadset.Xnoteheads</noteheadSetEntityID>
+						<playingTechniqueEntityID>pt.up</playingTechniqueEntityID>
+						<noteheadSetEntityID>noteheadset.triangleUpNoteheads</noteheadSetEntityID>
 						<playingTechniquePresentationOverrides array="true"/>
 					</playingTechniquePresentation>
 				</playingTechniquePresentations>
 			</PercussionInstrumentDataDefinition>
 			<PercussionInstrumentDataDefinition>
-				<name>percussion-instrument-data.user.90297cd1ace44699aa3688ab2befa972</name>
-				<entityID>percussion-instrument-data.user.90297cd1ace44699aa3688ab2befa972</entityID>
-				<parentEntityID/>
-				<inheritanceMask>0</inheritanceMask>
-				<playingTechniquePresentations array="true">
-					<playingTechniquePresentation>
-						<playingTechniqueEntityID>pt.natural</playingTechniqueEntityID>
-						<playingTechniquePresentationOverrides array="true"/>
-					</playingTechniquePresentation>
-					<playingTechniquePresentation>
-						<playingTechniqueEntityID>pt.rimShot</playingTechniqueEntityID>
-						<noteheadSetEntityID>noteheadset.slashedNoteheadsTLBR</noteheadSetEntityID>
-						<playingTechniquePresentationOverrides array="true"/>
-					</playingTechniquePresentation>
-					<playingTechniquePresentation>
-						<playingTechniqueEntityID>pt.rimOnly</playingTechniqueEntityID>
-						<noteheadSetEntityID>noteheadset.Xnoteheads</noteheadSetEntityID>
-						<playingTechniquePresentationOverrides array="true"/>
-					</playingTechniquePresentation>
-				</playingTechniquePresentations>
-			</PercussionInstrumentDataDefinition>
-			<PercussionInstrumentDataDefinition>
-				<name>percussion-instrument-data.user.99abc8787c71409ca516891627dbc748</name>
-				<entityID>percussion-instrument-data.user.99abc8787c71409ca516891627dbc748</entityID>
-				<parentEntityID/>
-				<inheritanceMask>0</inheritanceMask>
-				<playingTechniquePresentations array="true">
-					<playingTechniquePresentation>
-						<playingTechniqueEntityID>pt.natural</playingTechniqueEntityID>
-						<playingTechniquePresentationOverrides array="true"/>
-					</playingTechniquePresentation>
-				</playingTechniquePresentations>
-			</PercussionInstrumentDataDefinition>
-			<PercussionInstrumentDataDefinition>
-				<name>percussion-instrument-data.user.c4b1d4ed9e55498d939d875efa9e5ee7</name>
-				<entityID>percussion-instrument-data.user.c4b1d4ed9e55498d939d875efa9e5ee7</entityID>
-				<parentEntityID/>
-				<inheritanceMask>0</inheritanceMask>
-				<playingTechniquePresentations array="true">
-					<playingTechniquePresentation>
-						<playingTechniqueEntityID>pt.natural</playingTechniqueEntityID>
-						<playingTechniquePresentationOverrides array="true"/>
-					</playingTechniquePresentation>
-					<playingTechniquePresentation>
-						<playingTechniqueEntityID>pt.chorus</playingTechniqueEntityID>
-						<noteheadSetEntityID>noteheadset.rectangular</noteheadSetEntityID>
-						<playingTechniquePresentationOverrides array="true"/>
-					</playingTechniquePresentation>
-				</playingTechniquePresentations>
-			</PercussionInstrumentDataDefinition>
-			<PercussionInstrumentDataDefinition>
-				<name>percussion-instrument-data.user.c90191d7f53a484a90c92fd24983dc25</name>
-				<entityID>percussion-instrument-data.user.c90191d7f53a484a90c92fd24983dc25</entityID>
-				<parentEntityID/>
-				<inheritanceMask>0</inheritanceMask>
-				<playingTechniquePresentations array="true">
-					<playingTechniquePresentation>
-						<playingTechniqueEntityID>pt.natural</playingTechniqueEntityID>
-						<playingTechniquePresentationOverrides array="true"/>
-					</playingTechniquePresentation>
-					<playingTechniquePresentation>
-						<playingTechniqueEntityID>pt.rimShot</playingTechniqueEntityID>
-						<noteheadSetEntityID>noteheadset.slashedNoteheadsTLBR</noteheadSetEntityID>
-						<playingTechniquePresentationOverrides array="true"/>
-					</playingTechniquePresentation>
-					<playingTechniquePresentation>
-						<playingTechniqueEntityID>pt.rimOnly</playingTechniqueEntityID>
-						<noteheadSetEntityID>noteheadset.Xnoteheads</noteheadSetEntityID>
-						<playingTechniquePresentationOverrides array="true"/>
-					</playingTechniquePresentation>
-				</playingTechniquePresentations>
-			</PercussionInstrumentDataDefinition>
-			<PercussionInstrumentDataDefinition>
-				<name>percussion-instrument-data.user.cf9c1cd33e9b47eea631d8c66e6565e9</name>
-				<entityID>percussion-instrument-data.user.cf9c1cd33e9b47eea631d8c66e6565e9</entityID>
+				<name>percussion-instrument-data.user.77a2644251364cbcbd21a72afa681ab2</name>
+				<entityID>percussion-instrument-data.user.77a2644251364cbcbd21a72afa681ab2</entityID>
 				<parentEntityID/>
 				<inheritanceMask>0</inheritanceMask>
 				<playingTechniquePresentations array="true">
@@ -3174,8 +3162,33 @@
 				</playingTechniquePresentations>
 			</PercussionInstrumentDataDefinition>
 			<PercussionInstrumentDataDefinition>
-				<name>percussion-instrument-data.user.f348e61db29240c895469a48d153094f</name>
-				<entityID>percussion-instrument-data.user.f348e61db29240c895469a48d153094f</entityID>
+				<name>percussion-instrument-data.user.79cf787bea0547c5a34df29e541fbbf8</name>
+				<entityID>percussion-instrument-data.user.79cf787bea0547c5a34df29e541fbbf8</entityID>
+				<parentEntityID/>
+				<inheritanceMask>0</inheritanceMask>
+				<playingTechniquePresentations array="true">
+					<playingTechniquePresentation>
+						<playingTechniqueEntityID>pt.natural</playingTechniqueEntityID>
+						<playingTechniquePresentationOverrides array="true"/>
+					</playingTechniquePresentation>
+				</playingTechniquePresentations>
+			</PercussionInstrumentDataDefinition>
+			<PercussionInstrumentDataDefinition>
+				<name>percussion-instrument-data.user.7dc4e81f906d44afbd1a7eeae951a51a</name>
+				<entityID>percussion-instrument-data.user.7dc4e81f906d44afbd1a7eeae951a51a</entityID>
+				<parentEntityID/>
+				<inheritanceMask>0</inheritanceMask>
+				<playingTechniquePresentations array="true">
+					<playingTechniquePresentation>
+						<playingTechniqueEntityID>pt.natural</playingTechniqueEntityID>
+						<noteheadSetEntityID>noteheadset.Xnoteheads</noteheadSetEntityID>
+						<playingTechniquePresentationOverrides array="true"/>
+					</playingTechniquePresentation>
+				</playingTechniquePresentations>
+			</PercussionInstrumentDataDefinition>
+			<PercussionInstrumentDataDefinition>
+				<name>percussion-instrument-data.user.845c6b2f62174b0faeb18ed8c3e2e5c6</name>
+				<entityID>percussion-instrument-data.user.845c6b2f62174b0faeb18ed8c3e2e5c6</entityID>
 				<parentEntityID/>
 				<inheritanceMask>0</inheritanceMask>
 				<playingTechniquePresentations array="true">
@@ -3191,8 +3204,8 @@
 				</playingTechniquePresentations>
 			</PercussionInstrumentDataDefinition>
 			<PercussionInstrumentDataDefinition>
-				<name>percussion-instrument-data.user.fb49e4dbec384023a38e60c57f180996</name>
-				<entityID>percussion-instrument-data.user.fb49e4dbec384023a38e60c57f180996</entityID>
+				<name>percussion-instrument-data.user.84c5b62c4f894ecebec0d0e84aa72503</name>
+				<entityID>percussion-instrument-data.user.84c5b62c4f894ecebec0d0e84aa72503</entityID>
 				<parentEntityID/>
 				<inheritanceMask>0</inheritanceMask>
 				<playingTechniquePresentations array="true">
@@ -3204,6 +3217,170 @@
 					<playingTechniquePresentation>
 						<playingTechniqueEntityID>pt.muted</playingTechniqueEntityID>
 						<noteheadSetEntityID>noteheadset.Xnoteheads</noteheadSetEntityID>
+						<playingTechniquePresentationOverrides array="true"/>
+					</playingTechniquePresentation>
+				</playingTechniquePresentations>
+			</PercussionInstrumentDataDefinition>
+			<PercussionInstrumentDataDefinition>
+				<name>percussion-instrument-data.user.879358e4275148178722a90ff8fb0185</name>
+				<entityID>percussion-instrument-data.user.879358e4275148178722a90ff8fb0185</entityID>
+				<parentEntityID/>
+				<inheritanceMask>0</inheritanceMask>
+				<playingTechniquePresentations array="true">
+					<playingTechniquePresentation>
+						<playingTechniqueEntityID>pt.natural</playingTechniqueEntityID>
+						<playingTechniquePresentationOverrides array="true"/>
+					</playingTechniquePresentation>
+					<playingTechniquePresentation>
+						<playingTechniqueEntityID>pt.muted</playingTechniqueEntityID>
+						<noteheadSetEntityID>noteheadset.Xnoteheads</noteheadSetEntityID>
+						<playingTechniquePresentationOverrides array="true"/>
+					</playingTechniquePresentation>
+				</playingTechniquePresentations>
+			</PercussionInstrumentDataDefinition>
+			<PercussionInstrumentDataDefinition>
+				<name>percussion-instrument-data.user.a5d3ff0cbbf240a5b9fa1390c22e418e</name>
+				<entityID>percussion-instrument-data.user.a5d3ff0cbbf240a5b9fa1390c22e418e</entityID>
+				<parentEntityID/>
+				<inheritanceMask>0</inheritanceMask>
+				<playingTechniquePresentations array="true">
+					<playingTechniquePresentation>
+						<playingTechniqueEntityID>pt.natural</playingTechniqueEntityID>
+						<noteheadSetEntityID>noteheadset.Xnoteheads</noteheadSetEntityID>
+						<playingTechniquePresentationOverrides array="true"/>
+					</playingTechniquePresentation>
+				</playingTechniquePresentations>
+			</PercussionInstrumentDataDefinition>
+			<PercussionInstrumentDataDefinition>
+				<name>percussion-instrument-data.user.aa58e00ced1d451baf0a823c90a6982a</name>
+				<entityID>percussion-instrument-data.user.aa58e00ced1d451baf0a823c90a6982a</entityID>
+				<parentEntityID/>
+				<inheritanceMask>0</inheritanceMask>
+				<playingTechniquePresentations array="true">
+					<playingTechniquePresentation>
+						<playingTechniqueEntityID>pt.natural</playingTechniqueEntityID>
+						<noteheadSetEntityID>noteheadset.Xnoteheads</noteheadSetEntityID>
+						<playingTechniquePresentationOverrides array="true"/>
+					</playingTechniquePresentation>
+				</playingTechniquePresentations>
+			</PercussionInstrumentDataDefinition>
+			<PercussionInstrumentDataDefinition>
+				<name>percussion-instrument-data.user.c394acead6c0433d8e907932a4100cad</name>
+				<entityID>percussion-instrument-data.user.c394acead6c0433d8e907932a4100cad</entityID>
+				<parentEntityID/>
+				<inheritanceMask>0</inheritanceMask>
+				<playingTechniquePresentations array="true">
+					<playingTechniquePresentation>
+						<playingTechniqueEntityID>pt.natural</playingTechniqueEntityID>
+						<noteheadSetEntityID>noteheadset.Xnoteheads</noteheadSetEntityID>
+						<playingTechniquePresentationOverrides array="true"/>
+					</playingTechniquePresentation>
+				</playingTechniquePresentations>
+			</PercussionInstrumentDataDefinition>
+			<PercussionInstrumentDataDefinition>
+				<name>percussion-instrument-data.user.d11c0b74c5ff42a9a8610a6ef3382d87</name>
+				<entityID>percussion-instrument-data.user.d11c0b74c5ff42a9a8610a6ef3382d87</entityID>
+				<parentEntityID/>
+				<inheritanceMask>0</inheritanceMask>
+				<playingTechniquePresentations array="true">
+					<playingTechniquePresentation>
+						<playingTechniqueEntityID>pt.natural</playingTechniqueEntityID>
+						<playingTechniquePresentationOverrides array="true"/>
+					</playingTechniquePresentation>
+				</playingTechniquePresentations>
+			</PercussionInstrumentDataDefinition>
+			<PercussionInstrumentDataDefinition>
+				<name>percussion-instrument-data.user.dacbf2ba18fd446d9d856b3f44e60372</name>
+				<entityID>percussion-instrument-data.user.dacbf2ba18fd446d9d856b3f44e60372</entityID>
+				<parentEntityID/>
+				<inheritanceMask>0</inheritanceMask>
+				<playingTechniquePresentations array="true">
+					<playingTechniquePresentation>
+						<playingTechniqueEntityID>pt.natural</playingTechniqueEntityID>
+						<playingTechniquePresentationOverrides array="true"/>
+					</playingTechniquePresentation>
+					<playingTechniquePresentation>
+						<playingTechniqueEntityID>pt.rimShot</playingTechniqueEntityID>
+						<noteheadSetEntityID>noteheadset.slashedNoteheadsTLBR</noteheadSetEntityID>
+						<playingTechniquePresentationOverrides array="true"/>
+					</playingTechniquePresentation>
+					<playingTechniquePresentation>
+						<playingTechniqueEntityID>pt.rimOnly</playingTechniqueEntityID>
+						<noteheadSetEntityID>noteheadset.Xnoteheads</noteheadSetEntityID>
+						<playingTechniquePresentationOverrides array="true"/>
+					</playingTechniquePresentation>
+				</playingTechniquePresentations>
+			</PercussionInstrumentDataDefinition>
+			<PercussionInstrumentDataDefinition>
+				<name>percussion-instrument-data.user.ddbf87b81f424b34ac7e8e619b17aa0c</name>
+				<entityID>percussion-instrument-data.user.ddbf87b81f424b34ac7e8e619b17aa0c</entityID>
+				<parentEntityID/>
+				<inheritanceMask>0</inheritanceMask>
+				<playingTechniquePresentations array="true">
+					<playingTechniquePresentation>
+						<playingTechniqueEntityID>pt.natural</playingTechniqueEntityID>
+						<noteheadSetEntityID>noteheadset.Xnoteheads</noteheadSetEntityID>
+						<playingTechniquePresentationOverrides array="true"/>
+					</playingTechniquePresentation>
+				</playingTechniquePresentations>
+			</PercussionInstrumentDataDefinition>
+			<PercussionInstrumentDataDefinition>
+				<name>percussion-instrument-data.user.e6fca9a7c5c8413ca96778e36567c1e4</name>
+				<entityID>percussion-instrument-data.user.e6fca9a7c5c8413ca96778e36567c1e4</entityID>
+				<parentEntityID/>
+				<inheritanceMask>0</inheritanceMask>
+				<playingTechniquePresentations array="true">
+					<playingTechniquePresentation>
+						<playingTechniqueEntityID>pt.natural</playingTechniqueEntityID>
+						<playingTechniquePresentationOverrides array="true"/>
+					</playingTechniquePresentation>
+					<playingTechniquePresentation>
+						<playingTechniqueEntityID>pt.rimShot</playingTechniqueEntityID>
+						<noteheadSetEntityID>noteheadset.slashedNoteheadsTLBR</noteheadSetEntityID>
+						<playingTechniquePresentationOverrides array="true"/>
+					</playingTechniquePresentation>
+					<playingTechniquePresentation>
+						<playingTechniqueEntityID>pt.rimOnly</playingTechniqueEntityID>
+						<noteheadSetEntityID>noteheadset.Xnoteheads</noteheadSetEntityID>
+						<playingTechniquePresentationOverrides array="true"/>
+					</playingTechniquePresentation>
+				</playingTechniquePresentations>
+			</PercussionInstrumentDataDefinition>
+			<PercussionInstrumentDataDefinition>
+				<name>percussion-instrument-data.user.ef254f6744ab4522a0c7fa363db31fc8</name>
+				<entityID>percussion-instrument-data.user.ef254f6744ab4522a0c7fa363db31fc8</entityID>
+				<parentEntityID/>
+				<inheritanceMask>0</inheritanceMask>
+				<playingTechniquePresentations array="true">
+					<playingTechniquePresentation>
+						<playingTechniqueEntityID>pt.natural</playingTechniqueEntityID>
+						<playingTechniquePresentationOverrides array="true"/>
+					</playingTechniquePresentation>
+					<playingTechniquePresentation>
+						<playingTechniqueEntityID>pt.rimShot</playingTechniqueEntityID>
+						<noteheadSetEntityID>noteheadset.slashedNoteheadsTLBR</noteheadSetEntityID>
+						<playingTechniquePresentationOverrides array="true"/>
+					</playingTechniquePresentation>
+					<playingTechniquePresentation>
+						<playingTechniqueEntityID>pt.rimOnly</playingTechniqueEntityID>
+						<noteheadSetEntityID>noteheadset.Xnoteheads</noteheadSetEntityID>
+						<playingTechniquePresentationOverrides array="true"/>
+					</playingTechniquePresentation>
+				</playingTechniquePresentations>
+			</PercussionInstrumentDataDefinition>
+			<PercussionInstrumentDataDefinition>
+				<name>percussion-instrument-data.user.f3384391854c4c488a7ec8b4f2166660</name>
+				<entityID>percussion-instrument-data.user.f3384391854c4c488a7ec8b4f2166660</entityID>
+				<parentEntityID/>
+				<inheritanceMask>0</inheritanceMask>
+				<playingTechniquePresentations array="true">
+					<playingTechniquePresentation>
+						<playingTechniqueEntityID>pt.natural</playingTechniqueEntityID>
+						<playingTechniquePresentationOverrides array="true"/>
+					</playingTechniquePresentation>
+					<playingTechniquePresentation>
+						<playingTechniqueEntityID>pt.chorus</playingTechniqueEntityID>
+						<noteheadSetEntityID>noteheadset.rectangular</noteheadSetEntityID>
 						<playingTechniquePresentationOverrides array="true"/>
 					</playingTechniquePresentation>
 				</playingTechniquePresentations>
