@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <kScoreLibrary>
-	<fileVersion>1.948</fileVersion>
+	<fileVersion>1.982</fileVersion>
 	<temperaments>
 		<entities array="true"/>
 	</temperaments>
@@ -121,22 +121,28 @@
 				<forSingleInstrument>false</forSingleInstrument>
 				<entries array="true">
 					<entry>
-						<instrumentEntityID>instrument.orchestral.unpitched.sizzle.cymbal</instrumentEntityID>
-						<techniqueIDs>pt.down</techniqueIDs>
-						<pitch>27</pitch>
-						<name>Low</name>
-					</entry>
-					<entry>
-						<instrumentEntityID>instrument.orchestral.unpitched.sizzle.cymbal</instrumentEntityID>
+						<instrumentEntityID>instrument.percussion.other.cowbell.low</instrumentEntityID>
 						<techniqueIDs>pt.natural</techniqueIDs>
-						<pitch>28</pitch>
-						<name>Mid</name>
+						<pitch>16</pitch>
+						<name>Natural</name>
 					</entry>
 					<entry>
-						<instrumentEntityID>instrument.orchestral.unpitched.sizzle.cymbal</instrumentEntityID>
-						<techniqueIDs>pt.up</techniqueIDs>
-						<pitch>29</pitch>
-						<name>High</name>
+						<instrumentEntityID>instrument.percussion.other.cowbell.low</instrumentEntityID>
+						<techniqueIDs>pt.muted</techniqueIDs>
+						<pitch>17</pitch>
+						<name>Muted</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.percussion.other.cowbell.high</instrumentEntityID>
+						<techniqueIDs>pt.natural</techniqueIDs>
+						<pitch>19</pitch>
+						<name>Natural</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.percussion.other.cowbell.high</instrumentEntityID>
+						<techniqueIDs>pt.muted</techniqueIDs>
+						<pitch>21</pitch>
+						<name>Muted</name>
 					</entry>
 					<entry>
 						<instrumentEntityID>instrument.orchestral.unpitched.crash.cymbal.high</instrumentEntityID>
@@ -169,28 +175,34 @@
 						<name>Choke</name>
 					</entry>
 					<entry>
-						<instrumentEntityID>instrument.percussion.other.cowbell.low</instrumentEntityID>
+						<instrumentEntityID>instrument.orchestral.unpitched.sizzle.cymbal</instrumentEntityID>
+						<techniqueIDs>pt.down</techniqueIDs>
+						<pitch>27</pitch>
+						<name>Low</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.orchestral.unpitched.sizzle.cymbal</instrumentEntityID>
 						<techniqueIDs>pt.natural</techniqueIDs>
-						<pitch>16</pitch>
+						<pitch>28</pitch>
+						<name>Mid</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.orchestral.unpitched.sizzle.cymbal</instrumentEntityID>
+						<techniqueIDs>pt.up</techniqueIDs>
+						<pitch>29</pitch>
+						<name>High</name>
+					</entry>
+					<entry>
+						<instrumentEntityID>instrument.percussion.other.tambourine</instrumentEntityID>
+						<techniqueIDs>pt.natural</techniqueIDs>
+						<pitch>31</pitch>
 						<name>Natural</name>
 					</entry>
 					<entry>
-						<instrumentEntityID>instrument.percussion.other.cowbell.low</instrumentEntityID>
-						<techniqueIDs>pt.muted</techniqueIDs>
-						<pitch>17</pitch>
-						<name>Muted</name>
-					</entry>
-					<entry>
-						<instrumentEntityID>instrument.percussion.other.cowbell.high</instrumentEntityID>
-						<techniqueIDs>pt.natural</techniqueIDs>
-						<pitch>19</pitch>
-						<name>Natural</name>
-					</entry>
-					<entry>
-						<instrumentEntityID>instrument.percussion.other.cowbell.high</instrumentEntityID>
-						<techniqueIDs>pt.muted</techniqueIDs>
-						<pitch>21</pitch>
-						<name>Muted</name>
+						<instrumentEntityID>instrument.percussion.other.tambourine</instrumentEntityID>
+						<techniqueIDs>pt.shake</techniqueIDs>
+						<pitch>32</pitch>
+						<name>Shake</name>
 					</entry>
 					<entry>
 						<instrumentEntityID>instrument.body.hand.claps</instrumentEntityID>
