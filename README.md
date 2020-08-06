@@ -54,16 +54,16 @@ See sample-project.dorico
 | | Brush Closed Bell |  |  | 42 |  |  |  |  |  |
 | | Brush Closed Tip |  |  | 44 |  |  |  |  |  |
 | | Brush Open |  |  | 46 |  |  |  |  |  |
-| Tom 1 | Center Right/Left Alternating | 47 | % | 91 | % | Tom (High) | Natural | ![image-20200723193619650](README.assets/image-20200723193619650.png) |  |
+| Tom 1 | Center Right/Left Alternating | 47 | % | 45 | % | Tom (High) | Natural | ![image-20200723193619650](README.assets/image-20200723193619650.png) |  |
 |  | Rimshot | 71 | % | 69 | % | Tom (High) | Rim Shot | ![image-20200723194341274](README.assets/image-20200723194341274.png) |  |
 |  | Rim Only| 75 | % | 73 | % | Tom (High) | Rim Only | ![image-20200723194400645](README.assets/image-20200723194400645.png) |  |
-| | Brush Tap |  |  | 45 |  |  |  |  |  |
-| | Brush Dig |  |  | 47 |  |  |  |  |  |
-| Tom 2 | Center Right/Left Alternating | 45 | % | 88 | % | Tom (Medium-high) | Natural | ![image-20200723193619650](README.assets/image-20200723193619650.png) |  |
+| | Brush Tap |  |  | 91 |  |  |  |  |  |
+| | Brush Dig |  |  | 93 |  |  |  |  |  |
+| Tom 2 | Center Right/Left Alternating | 45 | % | 41 | % | Tom (Medium-high) | Natural | ![image-20200723193619650](README.assets/image-20200723193619650.png) |  |
 |  | Rimshot | 69 | % | 65 | % | Tom (Medium-high) | Rim Shot | ![image-20200723194341274](README.assets/image-20200723194341274.png) |  |
 |  | Rim Only | 74 | % | 72 | % | Tom (Medium-high) | Rim Only | ![image-20200723194400645](README.assets/image-20200723194400645.png) |  |
-| | Brush Tap |  |  | 41 |  |  |  |  |  |
-| | Brush Dig |  |  | 43 |  |  |  |  |  |
+| | Brush Tap |  |  | 88 |  |  |  |  |  |
+| | Brush Dig |  |  | 89 |  |  |  |  |  |
 | Tom 3 | Center Right/Left Alternating | 43 | % |  | % | Tom (Medium-low) | Natural | ![image-20200723193619650](README.assets/image-20200723193619650.png) |  |
 |  | Rimshot | 67 | % |  | % | Tom (Medium-low) | Rim Shot | ![image-20200723194341274](README.assets/image-20200723194341274.png) |  |
 |  | Rim Only| 73 | % |  | % | Tom (Medium-low) | Rim Only | ![image-20200723194400645](README.assets/image-20200723194400645.png) |  |
