@@ -50,10 +50,10 @@ See sample-project.dorico
 | | Open Loose | 79 | % | % | % | Hi-hat | Open Loose | ![image-20200803090049074](README.assets/image-20200803090049074.png) | ![image-20200724143837784](README.assets/image-20200724143837784.png) |
 | | Open Full | 80 | % | % | % | Hi-hat | Open 2 | ![image-20200803090108032](README.assets/image-20200803090108032.png) | ![image-20200723150542069](README.assets/image-20200723150542069.png) |
 | | Closed Pedal | 44 | % | % | % | Hi-hat (pedal) | Natural | ![image-20200723154413102](README.assets/image-20200723154413102.png) |  |
-| | Open Pedal | 70 | % | 87 | % | Hi-hat (pedal) | Open 2 | ![image-20200803090108032](README.assets/image-20200803090108032.png) | ![image-20200723154353499](README.assets/image-20200723154353499.png) |
-| | Brush Closed Bell |  |  | 42 |  |  |  |  |  |
-| | Brush Closed Tip |  |  | 44 |  |  |  |  |  |
-| | Brush Open |  |  | 46 |  |  |  |  |  |
+| | Open Pedal | 70 | % | 70 | % | Hi-hat (pedal) | Open 2 | ![image-20200803090108032](README.assets/image-20200803090108032.png) | ![image-20200723154353499](README.assets/image-20200723154353499.png) |
+| | Brush Closed Bell |  |  | 85 |  |  | Brush Sweep | ![image-20200806182951477](README.assets/image-20200806182951477.png) |  |
+| | Brush Closed Tip |  |  | 87 |  |  | Brush Tip | ![image-20200806183001937](README.assets/image-20200806183001937.png) |  |
+| | Brush Open |  |  | 90 |  |  | Brush | ![image-20200806183012042](README.assets/image-20200806183012042.png) |  |
 | Tom 1 | Center Right/Left Alternating | 47 | % | 45 | % | Tom (High) | Natural | ![image-20200723193619650](README.assets/image-20200723193619650.png) |  |
 |  | Rimshot | 71 | % | 69 | % | Tom (High) | Rim Shot | ![image-20200723194341274](README.assets/image-20200723194341274.png) |  |
 |  | Rim Only| 75 | % | 73 | % | Tom (High) | Rim Only | ![image-20200723194400645](README.assets/image-20200723194400645.png) |  |
