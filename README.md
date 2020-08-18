@@ -12,6 +12,8 @@ Dorico 3.5 mappings for Komplete:
 
 
 
+Originally this repo was meant to support Modern Drummer only, but going forward I will add other drum kits from Komplete 12 Ultimate.
+
 ## Installation
 
 ### Use sample project as a template
@@ -37,6 +39,8 @@ The template contains percussion kits and mappings for each kit.
 Instruments which are in one but not the other kit may play wrong notes (although they are not mapped, they are not silent).
 
 ## Mapping
+
+See also the pdf file in the repository for legend.
 
 
 | Drum       | Articulation           | MIDI Note - Spark | MIDI Note - White | Vintage Drummer Ebony | Midi Note Studio Stadium | Dorico  Instrument | Dorico playing technique | Dorico notehea | Dorico example |
@@ -124,3 +128,9 @@ Instruments which are in one but not the other kit may play wrong notes (althoug
 
 # Version history
 
+### 20.8.12
+
+- Added Vintage Drummer - Ebony kit
+
+- Moved Kick drums to the first space on the staff (all kits)
+- Re-arranged grid and single line instruments
