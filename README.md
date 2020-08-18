@@ -1,26 +1,40 @@
-# Dorico configuration to work with Komplete - Abbey Road Modern Drummer
+# Dorico configuration to work with Komplete Drum Kits
 
 ## Overview
 
-Dorico 3.5 mappings for Komplete Abbey Road Modern Drummer
+Dorico 3.5 mappings for Komplete:
 
-The template contains two mappings, one for white kit and one for sparkle kit. Depending on what kit you use, you need to select the right mapping.
+- Abbey Road Modern Drummer
+  - Sparkle
+  - White
+- Abbey Road Vintage Drummer
+  - Ebony
 
-Instruments which are in one but not the other kit play wrong (although they are not mapped, they are not silent).
+
 
 ## Installation
 
-You should be able to open sample project as a template (delete all the flows but keep the player). 
+### Use sample project as a template
+
+Open the sample project, delete all flows, delete players / kits that you don't need and use that as a template. The drawback is that you can't combine multiple templates this way.
+
+### Import percussion kit, map and playback template
 
 You can manually install percussion kit and percussion map, as follows:
 
-1. In Dorico setup, create a new player and click "Import Kit" and import percussion-kit-white.doricolib or percussion-kit-sparkle.doricolib
-2. Go to Play->Playback template,  import and apply plaback-template.dorico_pt
+1. In Dorico setup, create a new player and click "Import Kit" and import percussion kit you want to use.
+2. Go to Play->Playback template,  import and apply Komplete - Abbey Road Modern Drummer.dorico_pt
 3. This will create Kontakt VST instrument with Sparkle kit at channel 1 and White kit at channel 2, with the appropriate mappings applied. Just make sure your kit is using the right channe
 
 ## Example project
 
 See sample-project.dorico
+
+## Notes
+
+The template contains percussion kits and mappings for each kit.
+
+Instruments which are in one but not the other kit may play wrong notes (although they are not mapped, they are not silent).
 
 ## Mapping
 
@@ -107,4 +121,6 @@ See sample-project.dorico
 | Spiral | Stick | NA | 31 |  | NA | Suspended Cymbal | Natural |  | ![image-20200724161535337](README.assets/image-20200724161535337.png) |
 | | Mallet | NA | 32 |  | NA | Suspended Cymbal | Shake |  | ![image-20200724161637285](README.assets/image-20200724161637285.png) |
 | Sand Paper | Scratch |  |  | 26 |  |  |  |  |  |
+
+# Version history
 
