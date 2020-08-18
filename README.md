@@ -128,7 +128,7 @@ See also the pdf file in the repository for legend.
 
 # Version history
 
-### 20.8.12
+### 20.8.18
 
 - Added Vintage Drummer - Ebony kit
 
